@@ -1,4 +1,4 @@
-# Bachelorarbeit: Evaluation von großen Sprachmodellen in Bezug auf seltenes Faktenwissen
+# Evaluation von großen Sprachmodellen in Bezug auf seltenes Faktenwissen (Bachelorarbeit)
 
 ## Allgemeine Informationen
 Dieses Verzeichnis enthält Python-Skripte zum Sammeln von Daten, die für das Experiment benötigt werden, und zum Evalueren von seltenem Faktenwissen von großen Sprachmodellen anhand der gesammelten Daten.
