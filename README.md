@@ -43,33 +43,46 @@ python3 prompt_response_generator.py
 > Manuell erstellte Fragen-Templates sind unter folgendem Pfad verfügbar: ``` ./prompts/close_fragen_template.jsonl ```
 > 
 > Fertige Prompts für Llama 3.1 und Mistral 0.3 sind unter folgendem Pfad verfügbar: ``` ./prompts/prompts_for_llama_and_mistral ```
-> 
+ 
 > Erhaltene Antworten von Llama 3.1 auf Prompts sind unter folgendem Pfad verfügbar: ``` ./prompting_result/llama_result ```
 > 
 > Erhaltene Antworten von Mistral 0.3 auf Prompts sind unter folgendem Pfad verfügbar: ``` ./prompting_result/mistral_result ```
 
 
-- Prompting von GPT-4o per Batch-API (beachten Sie die Hinweise in den Kommentaren im Code).
+- Prompting von GPT-4o per Batch-API.
 ```
 export OPENAI_API_KEY="dein_API_KEY“
 ```
 ```
-python3 gpt_prompt_per_batch.py
+python3 gpt_prompt_per_batch.py --file_path "_"
 ```
+> ``` --file_path ```: Pfad zur JSON-Datei mit den fertigen Batches, die an API gesendet wird. Zum Beispiel ``` "./prompts/prompts_for_gtp_per_batches/P17_gpt_batches.jsonl" ```
+
 > Fertige Prompts für GPT-4o sind unter folgendem Pfad verfügbar: ``` ./prompts/prompts_for_gtp_per_batches ```
+```
+python3 gpt_prompt_per_batch.py --batch_id "_"
+```
+> ``` --batch_id ```: ID des Batches, um Status zu überprüfen. Zum Beispiel ``` "batch_66f3c6325f0c8190aa207ae42d8fe870" ```
+```
+python3 gpt_prompt_per_batch.py --file_id "_"  --output_path "_"
+```
+> ``` --file_id ```: ID der Datei, um Ergebnisse herunterzuladen. Zum Beispiel ``` "file-teJF9ChSNXgUv86W5xgyXjky" ```
 > 
+> ``` --output_path ```: Pfad, wo die heruntergeladene Datei gespeichert werden soll. Zum Beispiel ``` "./prompting_result/gpt_result" ```
+
 > Erhaltene Antworten auf Prompts sind unter folgendem Pfad verfügbar: ``` ./prompting_result/gpt_result ```
 
 
 - Evaluation der erhaltenen Daten durch Berechnung verschiedener Metriken.
-  >Mögliche Varianten des Modellnamens:
-  >
-  >gpt / llama / mistral (um Ergebnisse für alle relationalen Beziehungen einzeln zu erhalten) 
-  
-  >all_gpt / all_llama / all_mistral (um Ergebnisse für alle relationalen Beziehungen zusammen zu erhalten)
 ```
 python3 metriks.py <model_name>
 ```
+ >Mögliche Varianten des Modellnamens:
+  >
+  >gpt / llama / mistral (um Ergebnisse für alle relationalen Beziehungen einzeln zu erhalten) 
+  >
+  >all_gpt / all_llama / all_mistral (um Ergebnisse für alle relationalen Beziehungen zusammen zu erhalten)
+
 > Bereits berechnete Ergebnisse sind über die folgenden Pfade verfügbar:
 > 
 > für GPT-4o ``` ./metrics_result/metrics_gpt.jsonl ```
