@@ -1,0 +1,300 @@
+{"id": 1801, "content": "Drama  $  Comedy  $  Family  $  Business  $  Independent  $  Romance  $  Period Piece  $  Crime  $  Thriller  $  Mystery"}
+{"id": 1802, "content": "Mystery  $  Thriller  $  Suspense  $  Science Fiction  $  Horror  $  Drama  $  Fantasy  $  Adventure  $  Dystopian  $  Post-apocalyptic"}
+{"id": 1803, "content": "Action-Adventure  $  Platformer  $  Puzzle  $  Retro  $  Family  $  Arcade  $  Nintendo  $  Classic  $  Side-scrolling  $  Video game"}
+{"id": 1804, "content": "Fantasy  $  Mythology  $  Folklore  $  Fairy Tale  $  Legend  $  Children's Literature  $  Fiction  $  Medieval Literature  $  Tall Tales  $  Literary Classics"}
+{"id": 1805, "content": "Science Fiction  $  Dystopian Fiction  $  Young Adult Fiction  $  Post-apocalyptic Fiction  $  Literary Fiction  $  Fantasy  $  Speculative Fiction  $  Historical Fiction  $  Mystery  $  Thriller"}
+{"id": 1806, "content": "Drama  $  War  $  Historical Fiction  $  Political Thriller  $  Literary Fiction  $  War Drama  $  Anti-War Film  $  Military Fiction  $  Post-Apocalyptic Drama   $  Biography "}
+{"id": 1807, "content": "Classical Musician  $  Jazz Pianist  $  Composer   $  Conductor  $  Orchestral Arranger  $  Pianist   $  Concert Pianist  $  Music Producer  $  Multi-Instrumentalist  $  Film Scorer"}
+{"id": 1808, "content": "Racing Simulation  $  Sports Management  $  Role-Playing Game   $  Strategy  $  Tycoon  $  Life Simulation  $  Casual Game  $  Racing Game  $  Simulation  $  Mobile Game"}
+{"id": 1809, "content": "Fantasy  $  Magic Realism  $  Children's Literature  $  Paranormal Fiction  $  Coming-of-Age  $  Mythology and Folklore  $  Adventure  $  Supernatural  $  Drama  $  Mystery"}
+{"id": 1810, "content": "Ambient  $  Pop  $  Classical  $  Jazz  $  Rock  $  Electronic  $  Hip-hop  $  R&B  $  Country  $  Reggae"}
+{"id": 1811, "content": "Poetry  $  Novel  $  Drama  $  Memoir  $  Essay  $  Song Lyrics  $  Screenplay  $  Short Story  $  Biography  $  Diary Entry"}
+{"id": 1812, "content": "Drama  $  Comedy  $  Mystery  $  Action  $  Romance  $  Adventure  $  Thriller  $  Science Fiction  $  Historical  $  Horror"}
+{"id": 1813, "content": "Drama  $  War  $  Historical  $  Romance  $  Period  $  Melodrama  $  Adventure  $  Biography  $  War-Drama  $  Costume"}
+{"id": 1814, "content": "post-punk  $  shoegaze  $  noise rock  $  dream pop  $  indie rock  $  alternative rock  $  experimental rock  $  art punk  $  lo-fi  $  ambient rock"}
+{"id": 1815, "content": "Thriller  $  Mystery  $  Drama  $  Crime  $  Suspense  $  Noir  $  Political Thriller  $  Psychological Thriller  $  Espionage  $  Action-Thriller"}
+{"id": 1816, "content": "Thriller  $  Mystery  $  Crime  $  Suspense  $  Horror  $  Science Fiction  $  Fantasy  $  Romance  $  Historical Fiction  $  Biography"}
+{"id": 1817, "content": "Rock  $  Indie Rock  $  Alternative Rock  $  Blues Rock  $  Psychedelic Rock  $  Garage Rock  $  Funk Rock  $  Soul Rock  $  Hard Rock  $  Country Rock"}
+{"id": 1818, "content": "Fantasy  $  Magic realism  $  Drama  $  Play  $  Theatre  $  Fairy tale  $  Children's literature   $  French literature  $  Literary fiction  $  Classic drama"}
+{"id": 1819, "content": "Drama  $  Comedy  $  Musical  $  Tragedy  $  Farce  $  Satire  $  Romance  $  Melodrama  $  Historical Play  $  Mystery"}
+{"id": 1820, "content": "Romance  $  Drama  $  Comedy-Drama  $  Mystery  $  Comedy  $  Thriller  $  Fantasy  $  Action-Romance  $  Historical-Romance  $  Science Fiction-Romance"}
+{"id": 1821, "content": "Fashion  $  Clothing  $  Apparel  $  Garments  $  Costume  $  Style  $  Dressmaking  $  Textiles  $  Couture  $  Vogue"}
+{"id": 1822, "content": "Jazz  $  Piano  $  Classical  $  Contemporary  $  Danish  $  Improvisation  $  Avant-garde  $  Modern  $  Keyboard  $  Composer"}
+{"id": 1823, "content": "Drama  $  Romance  $  Mystery  $  Thriller  $  Historical  $  Fantasy  $  Comedy-Drama  $  Adventure  $  Biographical  $  Horror"}
+{"id": 1824, "content": "Pop  $  Hip Hop  $  R&B  $  Rock  $  Electronic Dance Music   $  Alternative  $  Jazz  $  Country  $  Indie  $  Reggaeton"}
+{"id": 1825, "content": "Western  $  Drama  $  Adventure  $  Romance  $  Historical Fiction  $  Road Movie  $  Biographical  $  Epic  $  Coming-of-age  $  Literary"}
+{"id": 1826, "content": "Mythology  $  Epic  $  Indian Folklore  $  Hinduism  $  Indian Literature  $  Religious  $  Storytelling  $  Drama  $  Adventure  $  Legend"}
+{"id": 1827, "content": "Platformer  $  Action-Adventure  $  Retro  $  Side-Scrolling  $  Nintendo  $  Classic  $  Gaming  $  Video Game  $  Arcade  $  Entertainment"}
+{"id": 1828, "content": "Rock  $  Country  $  Folk  $  Blues  $  Pop  $  Jazz  $  Classical  $  R&B  $  Soul  $  Electronic"}
+{"id": 1829, "content": "Country  $  Bluegrass  $  Folk  $  Americana  $  Roots Music  $  Traditional Country  $  Acoustic  $  Singer-Songwriter  $  Modern Folk  $  Gospel "}
+{"id": 1830, "content": "Drama  $  Comedy  $  Romance  $  Action  $  Musical  $  Thriller  $  Mystery  $  Adventure  $  Horror  $  Historical"}
+{"id": 1831, "content": "Science Fiction  $  Fantasy  $  Speculative Fiction  $  Paratime Fiction  $  Time Travel Literature  $  Futuristic Fiction  $  Alternate History  $  Paradox Fiction  $  Theory Fiction  $  Metaphysical Fiction"}
+{"id": 1832, "content": "EDM  $  House  $  Hip Hop  $  Pop  $  Techno  $  R&B  $  Trap  $  Reggaeton  $  Latin  $  Dubstep"}
+{"id": 1833, "content": "Fantasy  $  Adventure  $  Anime  $  Action  $  Drama  $  Mythology  $  Martial Arts  $  Historical Fiction  $  Magic  $  War"}
+{"id": 1834, "content": "Romance  $  Drama  $  Coming-of-Age  $  Fantasy  $  Mystery  $  Thriller  $  Science Fiction  $  Historical Fiction  $  Adventure  $  Biography"}
+{"id": 1835, "content": "Drama  $  Dance  $  Biography  $  Sports  $  Inspirational  $  International  $  Artistic  $  Cultural  $  True Story  $  Autobiographical"}
+{"id": 1836, "content": "Film noir  $  Experimental cinema  $  Art-house cinema  $  Avant-garde cinema  $  Cinema of the absurd  $  Independent filmmaking  $  Erotic cinema  $  Surrealism in film  $  Dark comedy  $  Psychological horror"}
+{"id": 1837, "content": "Drama  $  Comedy  $  Adventure  $  Romance  $  Mystery  $  Thriller  $  Historical Fiction  $  Fantasy  $  War  $  Sci-Fi"}
+{"id": 1838, "content": "Science Fiction  $  Adventure  $  Fantasy  $  Action and Adventure  $  Space Opera  $  Military Science Fiction  $  Space Western  $  Cyberpunk  $  Alien Invasion  $  Post-apocalyptic Science Fiction"}
+{"id": 1839, "content": "Drama  $  Historical  $  Romance  $  Period  $  Political  $  Biographical  $  Costume  $  British  $  Saga  $  Royal"}
+{"id": 1840, "content": "Country  $  Songwriter  $  Nashville Songwriter  $  Contemporary Christian  $  Pop-Country  $  Americana  $  Christian Music  $  Modern Country  $  CCM  Songwriter  $  Songwriting "}
+{"id": 1841, "content": "Reggaeton  $  Latin Trap  $  Urban Pop  $  Salsa  $  Bachata  $  Latin Hip Hop  $  Merengue  $  Bolero  $  Caribbean Music  $  Latin R&B"}
+{"id": 1842, "content": "Psychological Thriller  $  Drama  $  Mystery  $  Horror  $  Suspense  $  Fantasy  $  Crime  $  Supernatural  $  Romance  $  Science Fiction"}
+{"id": 1843, "content": "Classical Music  $  Metal   $  Progressive Rock  $  Electronic Music  $  Experimental Music  $  Avant-garde Music  $  Chamber Music  $  Symphonic Metal  $  Neoclassical Metal  $  Modern Composition"}
+{"id": 1844, "content": "Pop  $  Rock  $  Hip Hop/Rap  $  R&B/Soul  $  Country  $  Jazz  $  Electronic Dance Music   $  Indie  $  Alternative  $  Blues"}
+{"id": 1845, "content": "Jazz  $  Blues  $  Pop  $  Rock  $  Soul  $  R&B  $  Fusion  $  Gospel  $  Country  $  Experimental"}
+{"id": 1846, "content": "Heavy Metal  $  Power Metal  $  Symphonic Metal  $  Progressive Metal  $  Melodic Rock  $  Hard Rock  $  AOR   $  Epic Metal  $  Neo-Classical Metal  $  Traditional Metal"}
+{"id": 1847, "content": "Landscape Painter  $  Animal Painter  $  Portrait Painter  $  Neoclassical Artist  $  Equestrian Artist  $  Naturalist Painter  $  Draughtsman  $  Historical painter  $  Genre Painter  $  Still Life Painter"}
+{"id": 1848, "content": "Mystery  $  Adventure  $  Historical Fiction  $  Drama  $  Crime  $  Fantasy  $  Thriller  $  Horror  $  Romance  $  Science Fiction"}
+{"id": 1849, "content": "News  $  Newspaper  $  Journalism  $  Editorial  $  Current Affairs  $  Politics  $  Local News  $  World News  $  Sports News  $  Entertainment News"}
+{"id": 1850, "content": "Jazz Singer  $  Blues Artist  $  Soul Musician  $  Gospel Vocalist  $  R&B Performer  $  Pop Singer  $  Neo-Soul Artist  $  Jazz and Blues Singer  $  Contemporary R&B Artist  $  Vocalist "}
+{"id": 1851, "content": "Mystery  $  Suspense  $  Horror  $  Thriller  $  Fantasy  $  Drama  $  Adventure  $  Romance  $  Comedy   $  Science Fiction "}
+{"id": 1852, "content": "Country  $  Folk  $  Indie  $  Alternative  $  Singer-Songwriter  $  Americana  $  Blues  $  Roots  $  Rock  $  Pop-Folk"}
+{"id": 1853, "content": "Mystery  $  Detective Fiction  $  Crime Fiction  $  Adventure  $  Novel  $  Thriller  $  British Literature  $  Sherlockian Fiction  $  Classic Literature  $  Victorian Literature"}
+{"id": 1854, "content": "Country  $  Pop  $  Blues  $  Rock  $  Americana  $  Soul  $  Adult Contemporary  $  Folk  $  R&B  $  Indie"}
+{"id": 1855, "content": "Baroque  $  Renaissance  $  Classical  $  Romantic  $  Contemporary  $  Baroque-Classical  $  Baroque-Romantic  $  Classical-Romantic  $  Romantic-Contemporary  $  Contemporary-Baroque"}
+{"id": 1856, "content": "Drama  $  Romance  $  Comedy  $  Thriller  $  Mystery  $  Adventure  $  Historical  $  Science Fiction  $  Fantasy  $  War"}
+{"id": 1857, "content": "Comedy-Drama  $  Black Comedy  $  Dark Comedy  $  Dramedy  $  Independent Comedy  $  Road Movie  $  Female-Led Comedy  $  Character Study  $  Quirky Comedy  $  Indie Comedy"}
+{"id": 1858, "content": "Horror  $  Psychological Horror  $  Thriller  $  Drama  $  Suspense  $  Mystery  $  Supernatural  $  Indie  $  Experimental  $  Independent Horror"}
+{"id": 1859, "content": "Country  $  Bluegrass  $  Folk  $  Americana  $  Traditional Country  $  Southern Gospel  $  Roots Music  $  Old-Time Music  $  Mountain Music  $  Acoustic"}
+{"id": 1860, "content": "Science Fiction  $  Drama  $  Space Opera  $  Fantasy  $  Adventure  $  Space Exploration  $  Television Series  $  German TV Series  $  German Science Fiction  $  Speculative Fiction"}
+{"id": 1861, "content": "Rock  $  Soft Rock  $  Country Rock  $  Folk Rock  $  Pop Rock  $  Blue-Eyed Soul  $  Country  $  Adult Contemporary  $  Singer-Songwriter  $  Americana"}
+{"id": 1862, "content": "Jazz  $  Blues  $  Soul  $  R&B  $  Gospel  $  Pop  $  Fusion  $  Vocal  $  Neo-Soul  $  Contemporary Christian Music"}
+{"id": 1863, "content": "Strategy  $  Tactical Shooter  $  Action-Adventure  $  War Simulation  $  First-Person Shooter   $  Third-Person Shooter   $  Role-Playing Game   $  Real-Time Strategy   $  Adventure  $  Military"}
+{"id": 1864, "content": "Rock  $  Pop  $  Punk  $  New Wave  $  Psychedelic  $  Funk  $  Art Rock  $  Proto-Punk  $  Post-Punk  $  Indie"}
+{"id": 1865, "content": "Blues  $  Gospel  $  Soul  $  Spiritual  $  Christian Rock  $  Southern Gospel  $  Country Gospel  $  Blues-Rock  $  Contemporary Christian Music   $  Roots Music"}
+{"id": 1866, "content": "Folk  $  World Music  $  Indie  $  Alternative  $  Singer-Songwriter  $  Norwegian Music  $  Acoustic  $  Pop  $  Electronic  $  Experimental"}
+{"id": 1867, "content": "Romance  $  Drama  $  Comedy-Drama  $  Fantasy-Romance  $  Historical-Romance  $  Mystery-Romance  $  Science Fiction-Romance  $  Horror-Romance  $  Thriller-Romance  $  Adventure-Romance"}
+{"id": 1868, "content": "Funk  $  Psychedelic Rock  $  Space Rock  $  Synthwave  $  Electronic  $  Avant-garde  $  Experimental Pop  $  Ambient  $  Progressive Rock  $  New Age"}
+{"id": 1869, "content": "Jazz  $  Classical  $  Piano  $  Composer  $  Contemporary  $  Improvisation  $  Film Score  $  Keyboardist  $  Modern  $  Arranger"}
+{"id": 1870, "content": "Punk Rock  $  Post-Hardcore  $  Emo  $  Indie Rock  $  Alternative Rock  $  Rock  $  Hardcore Punk  $  Skate Punk  $  Melodic Hardcore  $  Math Rock"}
+{"id": 1871, "content": "Jazz  $  Rock  $  Electronic  $  Pop  $  Hip Hop  $  Reggae  $  Classical  $  Blues  $  Metal  $  World Music"}
+{"id": 1872, "content": "Mystery  $  Sensational Novel  $  3 Victorian Literature  $  4 Romance   $  5 Gothic Romance  $  6 Crime Fiction  $  7 Novel of manners  $  8 Victorian Crime  $  9 Victorian Psychological Thriller  $  10 Historical Fiction"}
+{"id": 1873, "content": "Country  $  Folk  $  Indie-Folk  $  Americana  $  Alternative  $  Singer-Songwriter  $  Blues-Rock  $  Roots Rock  $  Pop-Country  $  Country-Pop"}
+{"id": 1874, "content": "Rock  $  Folk  $  Pop  $  Alternative  $  Indie  $  Blues  $  Country  $  Singer-songwriter  $  Experimental  $  Fusion"}
+{"id": 1875, "content": "Drama  $  Tragedy  $  Family Saga  $  Psychological Thriller  $  Indie Film  $  Art House Cinema  $  Experimental Film  $  Avant-garde Film  $  Underground Film  $  Unclassifiable Film"}
+{"id": 1876, "content": "Rock  $  Christian Rock  $  Gospel  $  Contemporary Christian Music   $  Worship  $  Inspirational  $  Christian Pop  $  Christian Hip Hop  $  Praise and Worship  $  Faith-based"}
+{"id": 1877, "content": "Country  $  Pop-Country  $  Singer-Songwriter  $  Modern Country  $  Contemporary Country  $  Country Pop  $  Nashville Sound  $  Americana  $  Country-Rock  $  Country Music"}
+{"id": 1878, "content": "Superhero  $  Tokusatsu  $  Sci-Fi  $  Action/Adventure  $  Martial Arts  $  Mecha  $  Fantasy  $  Alien Invasion  $  Shounen  $  Military"}
+{"id": 1879, "content": "Country  $  Folk  $  Americana  $  Bluegrass  $  Singer-Songwriter  $  Alt-Country  $  Indie-Folk  $  Roots Music  $  Blues-Rock  $  Rock/Country Fusion"}
+{"id": 1880, "content": "Adventure  $  Fantasy  $  Science Fiction  $  Mystery  $  Horror  $  Thriller  $  Suspense  $  Supernatural  $  Steampunk  $  Dark Fantasy"}
+{"id": 1881, "content": "Action  $  Adventure  $  Thriller  $  Spy  $  Drama  $  Crime  $  Film Noir  $  Mystery  $  Romance  $  Comedy"}
+{"id": 1882, "content": "Phonetics  $  Linguistics  $  Literature   $  Grammar  $  Speech sounds  $  Phonology  $  Sound symbolism  $  Phonotactics  $  Language structure  $  Semantics "}
+{"id": 1883, "content": "Thriller  $  Mystery  $  Drama  $  Crime  $  Suspense  $  Science Fiction  $  Adventure  $  Horror  $  Psychological  $  Film Noir"}
+{"id": 1884, "content": "Pop  $  R&B  $  Rap  $  Soul  $  Gospel  $  Jazz  $  Country  $  Rock  $  Folk  $  Classical"}
+{"id": 1885, "content": "Biography  $  Autobiography  $  Sports  $  Hunting  $  Literature  $  History  $  Fiction   $  Adventure  $  Memoir  $  Animal studies or behavior"}
+{"id": 1886, "content": "Mystery Thriller  $  Psychological Horror  $  Crime Drama  $  Noir Thriller  $  Suspenseful Drama  $  Neo-Noir  $  Police Procedural  $  Supernatural Thriller  $  Techno-Thriller  $  Psychological Mystery"}
+{"id": 1887, "content": "Hip-Hop  $  Pop  $  Rock  $  R&B/Soul  $  Country  $  Electronic Dance Music   $  Jazz  $  Latin  $  Blues  $  Reggae"}
+{"id": 1888, "content": "Mockumentary  $  Comedy  $  Music  $  Rock  $  Parody  $  Cult Classic  $  Satire  $  Film  $  Musical Comedy  $  Cultural Icon"}
+{"id": 1889, "content": "Pop-Punk  $  Alternative Rock  $  Indie Rock  $  Emo  $  Post-Hardcore  $  Punk Rock  $  Rock  $  Garage Rock  $  Powerpop  $  New Wave"}
+{"id": 1890, "content": "Rap  $  Hip-hop  $  R&B  $  Pop  $  Soul  $  Trap  $  Neo-soul  $  Reggae  $  Experimental  $  Electronic"}
+{"id": 1891, "content": "comedy  $  drama  $  romance  $  musical  $  biography  $  crime  $  thriller  $  historical  $  adventure  $  mystery"}
+{"id": 1892, "content": "Fantasy  $  Mythology  $  Science Fiction  $  Lost Civilization  $  Underwater World  $  Ancient History  $  Adventure  $  Mystery  $  Legend  $  Speculative Fiction"}
+{"id": 1893, "content": "Poetry  $  Latin poetry  $  Love poetry  $  Elegiac poetry  $  Ancient Roman poetry  $  Catullan poetry  $  Lyric poetry  $  Roman elegy  $  Ancient love poetry  $  Classical Roman literature"}
+{"id": 1894, "content": "Science Fiction  $  Fantasy  $  Adventure  $  Post-apocalyptic  $  Space Opera  $  Mystery  $  Thriller  $  Horror   $  Drama   $  Comedy "}
+{"id": 1895, "content": "Historical Fiction  $  Novel   $  Scottish Literature  $  Romance   $  Drama   $  Political Fiction  $  Social Novel   $  Realistic Fiction  $  Saga   $  Biographical Fiction "}
+{"id": 1896, "content": "Rai  $  Algerian Pop  $  Arabic Music  $  Middle Eastern  $  North African  $  Oriental Music  $  World Music  $  Maghreb  $  African Traditional  $  Music of Algeria"}
+{"id": 1897, "content": "Classical Music  $  Opera  $  3 Mongolian Folk Music  $  4 Contemporary Music  $  5 Vocal Music  $  6 Art Song  $  7 Oratorio  $  8 Choral Music  $  9 Theater Music  $  10 Film Score"}
+{"id": 1898, "content": "Comedy-Drama  $  Dramedy  $  Romantic Comedy  $  Family Comedy  $  Comedy-Romance  $  Black Comedy  $  Comedy-Mystery  $  Dark Comedy  $  Comedy-Fantasy  $  Comedy-Thriller"}
+{"id": 1899, "content": "Drama  $  Historical Fiction  $  Mystery  $  Romance  $  Suspense  $  Thriller  $  Period Drama  $  Literary Fiction  $  Gothic Novel  $  Adventure"}
+{"id": 1900, "content": "Progressive Metal  $  Instrumental Rock  $  Post-Metal  $  Stoner Rock  $  Psychedelic Rock  $  Sludge Metal  $  Math Rock  $  Experimental Metal  $  Space Rock  $  Doom Metal"}
+{"id": 1901, "content": "Fantasy  $  Adventure  $  Magic  $  Mystery  $  Steampunk  $  Historical Fiction  $  Humor  $  Sword and Sorcery  $  Comedy-Fantasy  $  Epic Fantasy"}
+{"id": 1902, "content": "Death Metal  $  Doom Metal  $  Gothic Metal  $  Funeral Doom  $  Blackened Death  $  Sludge Metal  $  Melodic Death  $  Atmospheric Death  $  Symphonic Death  $  Progressive Death"}
+{"id": 1903, "content": "Tigre reale genre is African Mammal  $  Tigre reale genre is Cat  $  Tigre reale genre is Panthera  $  Tigre reale genre is Felidae  $  Tigre reale genre is Big Cat  $  Tigre reale genre is Feline  $  Tigre reale genre is Leopardid  $  Tigre reale genre is Subfamily Pantherinae  $  Tigre reale genre is Species Panthera tigris  $  Tigre reale genre is Wild Cat"}
+{"id": 1904, "content": "Drama  $  Science Fiction  $  Post-Apocalyptic  $  Thriller  $  Disaster  $  Horror  $  Adventure  $  Mystery  $  Suspense  $  Action"}
+{"id": 1905, "content": "European Royalty  $  Aristocrat  $  Duke  $  Saxe-Coburg and Gotha Native  $  German Noble  $  Monarch  $  Erbprinz   $  Statesman  $  Politician   $  Enlightened Despot "}
+{"id": 1906, "content": "Thriller  $  Drama  $  Mystery  $  Crime  $  Psychological  $  Suspense  $  Romance   $  Noir  $  Supernatural  $  Political Thriller"}
+{"id": 1907, "content": "Comedy  $  Drama  $  Action  $  Crime  $  Thriller  $  Romance  $  Science Fiction  $  Horror  $  Mystery  $  Adventure"}
+{"id": 1908, "content": "Jazz Musician  $  Singer-Songwriter  $  Blues Artist  $  Pianist  $  Composer  $  Indie Rock Artist  $  Multi-instrumentalist  $  Country Musician  $  Vocalist  $  Pop Artist"}
+{"id": 1909, "content": "Adventure  $  Travelogue  $  Drama  $  Comedy-Drama  $  Mystery  $  Road Trip  $  Slice of Life  $  Memoir  $  Satire  $  Biographical Fiction"}
+{"id": 1910, "content": "Science Fiction  $  Fantasy  $  Military Fiction  $  Adventure  $  Speculative Fiction  $  Space Opera  $  Post-Apocalyptic Fiction  $  Alternate History  $  Cyberpunk  $  Dystopian Fiction"}
+{"id": 1911, "content": "Drama  $  Comedy-Drama  $  Musical  $  Romance-Drama  $  Tragedy  $  Family-Drama  $  Mystery-Drama  $  Adventure-Drama  $  Science Fiction-Drama  $  Historical-Drama"}
+{"id": 1912, "content": "Hip-Hop  $  Rap  $  R&B  $  Pop  $  Trap Music  $  Urban  $  Soul  $  Gangsta Rap  $  Contemporary R&B  $  Modern Rap"}
+{"id": 1913, "content": "Romance  $  Drama  $  Mystery  $  Thriller  $  Fantasy  $  Science Fiction  $  Historical Fiction  $  Horror  $  Adventure  $  Biography/Autobiography"}
+{"id": 1914, "content": "Hip-Hop  $  Rap  $  R&B  $  Pop  $  Rock  $  Electronic Dance Music   $  Jazz  $  Country  $  Blues  $  Folk"}
+{"id": 1915, "content": "Comedy  $  Silent Film  $  Slapstick  $  Drama  $  Short Film  $  Adventure  $  Satire  $  Crime   $  Mystery   $  Musical "}
+{"id": 1916, "content": "Jazz  $  Blues  $  Soul  $  R&B  $  Funk  $  Gospel  $  Vocal  $  Pop  $  Contemporary  $  Adult Contemporary"}
+{"id": 1917, "content": "Electronic Dance Music   $  Synthwave  $  Future Bass  $  Trap  $  House  $  Techno  $  Dubstep  $  Chillwave  $  Ambient  $  IDM "}
+{"id": 1918, "content": "Drama  $  Children's literature  $  Fantasy  $  Adventure  $  Fiction  $  Young adult  $  Mystery  $  Coming-of-age  $  Historical fiction  $  Magic realism"}
+{"id": 1919, "content": "Medical Drama  $  Medical Mystery  $  Medical Thriller  $  Hospital Soap Opera  $  Medical Comedy-Drama  $  Medical Biography  $  Medical Romance  $  Medical Horror  $  Medical Crime  $  Medical Science Fiction"}
+{"id": 1920, "content": "Jazz  $  World Music  $  Avant-Garde Jazz  $  Experimental Music  $  Modern Classical  $  Electronic Music  $  Fusion  $  Improvised Music  $  Contemporary Jazz  $  New Age Music"}
+{"id": 1921, "content": "Comedy  $  Adventure  $  Animation  $  Family  $  Action  $  Sci-fi   $  Fantasy  $  Drama  $  Mystery  $  Horror"}
+{"id": 1922, "content": "Romance  $  Drama  $  Comedy-Drama  $  Tragedy  $  Musical  $  Melodrama  $  Historical Romance  $  Romantic Comedy  $  Fantasy Romance  $  Supernatural Romance"}
+{"id": 1923, "content": "Reggae Music  $  Dancehall Music  $  Dub Reggae  $  Roots Reggae  $  Jamaican Music  $  Dubstep  $  Electronic Dance Music   $  Ska Music  $  Tropical Dub  $  Lovers Rock"}
+{"id": 1924, "content": "Techno  $  Industrial  $  EDM   $  Rave  $  Hardcore  $  Electro  $  Power Noise  $  Cyberpunk  $  Aggrotech  $  Futurepop"}
+{"id": 1925, "content": "Mystery  $  Noir  $  Thriller  $  Crime  $  Detective Fiction  $  Literary Fiction  $  Historical Fiction  $  Romance  $  Suspense  $  Drama"}
+{"id": 1926, "content": "Adventure  $  Travelogue  $  Fiction   $  Memoir  $  Essay   $  Drama   $  Biography   $  Poetry   $  Guidebook  $  Mystery "}
+{"id": 1927, "content": "Rock  $  Hip Hop/Rap  $  Indie  $  Alternative  $  Pop  $  Folk  $  Punk  $  Blues  $  Jazz  $  Country"}
+{"id": 1928, "content": "Rock  $  Alternative  $  Heavy Metal  $  Punk  $  Hard Rock  $  Indie Rock  $  Grunge  $  Classic Rock  $  Post-Punk  $  Garage Rock"}
+{"id": 1929, "content": "Documentary  $  Drama  $  Art House  $  Biographical  $  Experimental  $  French-language  $  Independent  $  Autobiographical  $  Cultural  $  Experimental-documentary"}
+{"id": 1930, "content": "Mystery  $  Crime Fiction  $  Thriller  $  Italian Literature  $  Suspense  $  Police Procedural  $  Historical Mystery  $  Literary Fiction   $  Venetian Noir  $  European Literature"}
+{"id": 1931, "content": "J-Pop  $  Idol  $  Girl Group  $  Pop Idol  $  Japanese Pop  $  Girl Band  $  Sakura Groups   $  Kawaii Pop  $  Idol Music  $  Morning Musume Subgroup"}
+{"id": 1932, "content": "Adventure  $  Science-fiction  $  Action  $  Drama  $  Mystery  $  Thriller  $  Fantasy  $  Horror  $  Romance  $  Comedy"}
+{"id": 1933, "content": "Rock  $  Alternative  $  Emo  $  Punk  $  Pop-punk  $  Indie rock  $  Comic book  $  Dark wave  $  Synth-pop  $  New Wave"}
+{"id": 1934, "content": "Action  $  Racing  $  Drama  $  Anime  $  Sports  $  Adventure  $  Sci-Fi  $  Comedy   $  Thriller   $  Fantasy "}
+{"id": 1935, "content": "Action  $  Science Fiction  $  Martial Arts  $  Fantasy  $  Comedy   $  Horror   $  Adventure  $  Anime/Manga  $  Superhero  $  Thriller"}
+{"id": 1936, "content": "Science Fiction  $  Young Adult Fiction  $  Dystopian Fiction  $  Coming-of-Age  $  Speculative Fiction  $  Fantasy  $  Space Opera  $  Literature  $  Post-apocalyptic  $  Social Realism"}
+{"id": 1937, "content": "Action Thriller  $  Crime Drama  $  Mystery Thriller  $  Gangster Drama  $  Revenge Thriller  $  Neo-Noir  $  Police Procedural  $  Heist Thriller  $  Dark Comedy   $  Psychological Thriller"}
+{"id": 1938, "content": "Portraiture  $  Realism  $  Contemporary Art  $  Oil Painting  $  Figurative Art  $  Modern Art  $  Expressionism   $  Impressionism   $  Abstract Art   $  Pop Art "}
+{"id": 1939, "content": "Hip-Hop  $  Rap  $  Trap Music  $  R&B  $  Pop  $  Alternative  $  Electronic  $  Indie  $  Jazz  $  Rock"}
+{"id": 1940, "content": "Romance  $  Drama  $  Comedy-Drama  $  Slice of Life  $  Melodrama  $  Coming of Age  $  Fantasy-Romance  $  Youth  $  Sh\u014djo  $  School-Life"}
+{"id": 1941, "content": "Indie Rock  $  Alternative Pop  $  Emo  $  Dream Pop  $  Shoegaze  $  Synthwave  $  Indie Electronic  $  Lo-fi  $  Post-Punk Revival  $  New Wave"}
+{"id": 1942, "content": "Drama  $  Tragedy  $  Revenge  $  Psychological Thriller  $  Film Noir  $  Women's Studies  $  Melodrama  $  Art House  $  Historical  $  Experimental"}
+{"id": 1943, "content": "film noir genre  $  genre of Milice's movie  $  Milice film noir category  $  category: film noir   $  Milice's film is noir genre  $  Milice film belongs to noir genre  $  film noir as Milice's genre  $  Milice produced a film noir  $  Milice movie falls under film noir  $  Milice's genre: film noir"}
+{"id": 1944, "content": "Comedy  $  Anime  $  Action  $  Adventure  $  Fantasy  $  Martial Arts  $  Sci-Fi  $  Manga  $  Slice of Life  $  Supernatural"}
+{"id": 1945, "content": "Action Thriller  $  Cyberpunk Thriller  $  Science Fiction  $  Mystery Thriller  $  Dystopian Sci-fi  $  Techno-Thriller  $  Space Opera  $  Post-Apocalyptic  $  Noir Thriller  $  Action Adventure"}
+{"id": 1946, "content": "Biography  $  History  $  Religion  $  True Crime  $  Mormon Studies  $  Western U.S. History  $  Cultural Studies  $  American History  $  Pioneer Life  $  Sects and Cults"}
+{"id": 1947, "content": "Hollywood Film Genre  $  Action-Adventure  $  Comedy  $  Drama  $  Sci-Fi/Fantasy  $  Romance  $  Horror  $  Thriller  $  Animation  $  Crime/Mystery"}
+{"id": 1948, "content": "Action  $  Adventure  $  Crime Drama  $  Police Procedural  $  Mystery  $  Thriller  $  Comedy-Drama   $  War   $  Historical   $  Romance "}
+{"id": 1949, "content": "Country  $  Pop  $  Rock  $  R&B  $  Hip Hop  $  Jazz  $  Classical  $  Electronic  $  Indie  $  Folk"}
+{"id": 1950, "content": "Fantasy  $  Adventure  $  Historical Fiction  $  Sword and Sorcery  $  High Fantasy  $  Epic  $  Mythological Fiction  $  Action and Adventure  $  Heroic Fiction  $  Animals in Literature"}
+{"id": 1951, "content": "Rock  $  Pop  $  Hip Hop  $  Indie  $  Electronic  $  Country  $  Jazz  $  Blues  $  Classical  $  Folk"}
+{"id": 1952, "content": "Rock  $  Pop  $  Indie  $  Electronic  $  Alternative  $  Hip Hop/Rap  $  Synthwave  $  Post-Punk Revival  $  Folk Rock  $  Jazz"}
+{"id": 1953, "content": "Rock  $  Biographical Drama  $  Music  $  Musical Biography  $  Biography  $  Drama  $  Autobiography  $  Historical Fiction   $  Narrative Film  $  Adaptation"}
+{"id": 1954, "content": "Swedish Hard Rock  $  Swedish Metal  $  Swedish Heavy Metal  $  Swedish Progressive Metal  $  Swedish Death Metal  $  Swedish Melodic Death Metal  $  Swedish Black Metal  $  Swedish Power Metal  $  Swedish Folk Metal  $  Swedish Symphonic Metal"}
+{"id": 1955, "content": "Romance  $  Drama  $  Comedy-Drama  $  Coming-of-Age  $  Teen Fiction  $  Young Adult   $  Adaptation  $  High School  $  Love Story  $  Family-Drama"}
+{"id": 1956, "content": "Adventure  $  Role-playing game   $  Action-adventure  $  Puzzle  $  Retro  $  Time travel  $  Indie  $  Strategy  $  Simulation  $  Open world"}
+{"id": 1957, "content": "Sword and Sorcery  $  Fantasy Fiction  $  Adventure  $  Heroic Fantasy  $  Action-Adventure  $  Mythical Fiction  $  Historical Fantasy  $  Dark Fantasy  $  Sword and Sandals  $  Epic Fantasy"}
+{"id": 1958, "content": "Country  $  Folk  $  Singer-songwriter  $  Americana  $  Classic country  $  Traditional country  $  Songwriter  $  Contemporary Christian  $  Gospel  $  Adult contemporary"}
+{"id": 1959, "content": "Comedy  $  Romantic Comedy  $  Dramedy  $  Romance  $  Musical Comedy  $  Feel-Good Drama  $  Romantic Drama  $  Sitcom  $  Family Comedy  $  Black Comedy"}
+{"id": 1960, "content": "Steampunk  $  Comic book/Graphic novel  $  Science fiction  $  Action-adventure  $  Horror  $  Alternative history  $  Gothic  $  Superhero  $  Cyberpunk   $  Mystery "}
+{"id": 1961, "content": "Electronic Music  $  Synthwave  $  Future Bass  $  Trap  $  Experimental Electronica  $  Chiptune  $  Vaporwave  $  Indie Electronica  $  Retrowave  $  Downtempo"}
+{"id": 1962, "content": "Punk Rock  $  Garage Rock  $  Surf Rock  $  Garage Punk  $  Power Pop  $  Lo-Fi  $  Indie Rock  $  Rock 'n' Roll  $  Alternative Rock  $  Post-Punk"}
+{"id": 1963, "content": "Fantasy  $  Science Fiction  $  Adventure  $  Mystery  $  Romance  $  Historical Fiction  $  Horror  $  Thriller  $  Comedy   $  Biography/Autobiography "}
+{"id": 1964, "content": "Rock  $  Heavy Metal  $  Alternative  $  Punk  $  Grunge  $  Indie  $  Hard Rock  $  Garage Rock  $  Post-Punk Revival  $  Goth Rock"}
+{"id": 1965, "content": "Opera  $  Drama  $  Musical Theatre  $  Contemporary Chinese  $  Folk Operas  $  Modern Chinese Opera  $  Experimental Opera  $  Art Song Cycle  $  Cantopop   $  Chamber Music "}
+{"id": 1966, "content": "Psychological Thriller  $  Mystery  $  Drama  $  Horror  $  Suspense  $  Crime  $  Film Noir  $  Gothic  $  Supernatural  $  Tragicomedy"}
+{"id": 1967, "content": "Rock  $  Latin Pop  $  Reggaeton  $  Cumbia  $  Tropical  $  Urban  $  Alternative  $  Folklore  $  Electronic  $  World Music"}
+{"id": 1968, "content": "Carnatic_Music  $  Indian_Classical_Music  $  Vocal_Music  $  Ragam_Tanam_Pallavi  $  Krithi  $  Devotional_Music  $  Hindustani_Music_Influence  $  Composer  $  South_Indian_Music  $  Traditional_Music"}
+{"id": 1969, "content": "Pop  $  Rock and Roll  $  Girl Group  $  British Invasion  $  Vocal  $  Easy Listening  $  Novelty  $  Beat  $  Traditional Pop  $  Early Rock"}
+{"id": 1970, "content": "Adventure  $  Fantasy  $  Romance  $  Action  $  Drama  $  Supernatural  $  Historical  $  Horror  $  Mystery  $  Comedy"}
+{"id": 1971, "content": "Comedy  $  Satire  $  Humor  $  Slapstick  $  Parody  $  Cartoon  $  Gag  $  Graphic Novel  $  Narrative Comics  $  Comic Strip Genre - Unspecified"}
+{"id": 1972, "content": "Science Fiction  $  Space Opera  $  Dystopian  $  Adventure  $  Alien Invasion  $  Post-apocalyptic  $  Cyberpunk  $  Colonialism in space  $  Military Science Fiction  $  Speculative Fiction"}
+{"id": 1973, "content": "Drama  $  Thriller  $  Adventure  $  Mystery  $  Horror  $  Science Fiction  $  Romance  $  Comedy  $  Fantasy  $  Action"}
+{"id": 1974, "content": "Comedy  $  Talk Show  $  Variety Show  $  Satire  $  Sketch Comedy  $  Improvisational Comedy  $  Late-Night Talk Show  $  Musical Comedy  $  Reality Comedy  $  Game Show"}
+{"id": 1975, "content": "Vocaloid  $  Electronic  $  Synthpop  $  Trap  $  Future Bass  $  EDM   $  Chiptune  $  J-Pop   $  Anime  $  Video Game Music"}
+{"id": 1976, "content": "Chess Novel  $  Strategic Game  $  Historical Fiction  $  Board Game Story  $  Political Thriller  $  Psychological Drama  $  Fantasy-Adventure  $  Courtly Love Tale  $  Royal History Narrative  $  Mystery Genre"}
+{"id": 1977, "content": "Literary  $  Classical  $  Japanese literature  $  Tales  $  Anthology  $  Legendary stories  $  Narrative  $  Medieval Japanese  $  Folklore  $  Mythical"}
+{"id": 1978, "content": "Classical Music  $  Opera  $  Contemporary Classical  $  Greek Folk Music  $  Composition   $  Modern Greek Music  $  Film Score  $  Choral Music  $  Orchestral Music  $  Piano Music"}
+{"id": 1979, "content": "Rock  $  Latin Rock  $  Alternative Latin  $  Cumbia  $  Salsa Rock  $  Indie Rock   $  Fusion   $  Pop Latino  $  Tropical Rock  $  Garage Rock "}
+{"id": 1980, "content": "Drama  $  Comedy-Drama  $  Romantic Comedy  $  Dramedy  $  Romance  $  Comedy  $  Family  $  Sentimental  $  Slice-of-Life  $  Independent Film"}
+{"id": 1981, "content": "Reality Television  $  Drama  $  Soap Opera  $  Lifestyle  $  Socialite  $  Housewives  $  Bravo TV Show  $  American Reality Series  $  Utah Culture  $  Women's Lifestyle"}
+{"id": 1982, "content": "Thriller  $  Horror  $  Rock  $  Metal  $  Alternative  $  Punk  $  Grunge  $  Industrial  $  Gothic Rock  $  Post-Punk"}
+{"id": 1983, "content": "Opera  $  Comedy  $  Vaudeville  $  Musical Theatre  $  Variety Act  $  Mime  $  Dance  $  Physical Comedy  $  Music Hall  $  Circus Act"}
+{"id": 1984, "content": "Adventure  $  Action-Adventure  $  Role-Playing Game   $  Shooter  $  Survival  $  Strategy  $  Puzzle  $  Horror  $  Simulation  $  Sports"}
+{"id": 1985, "content": "Medieval music  $  Folk rock  $  Celtic punk  $  Renaissance music  $  Neo-medieval  $  Gothic rock  $  World music  $  Female fronted metal  $  Pagan folk  $  Alternative rock"}
+{"id": 1986, "content": "Aesop's Fables  $  Folklore  $  Mythology  $  Legends  $  Parables  $  Fairy Tales  $  Sagas  $  Ghost Stories  $  Fictional Accounts  $  Allegories"}
+{"id": 1987, "content": "Science Fiction  $  Horror  $  Thriller  $  Mystery  $  Fantasy  $  Action-Adventure  $  Drama  $  Comedy   $  Romance   $  Historical Fiction "}
+{"id": 1988, "content": "Contemporary Christian  $  Christian Pop  $  Gospel  $  Inspirational  $  Singer-songwriter  $  Worship Leader  $  Country Gospel  $  Modern Worship  $  Spiritual Musician  $  Religious Artist"}
+{"id": 1989, "content": "Psychological Horror  $  Surrealism  $  Dark Fantasy  $  Magical Realism  $  Experimental Fiction  $  Literary Fiction  $  Drama  $  Art House Film  $  Poetic Fiction  $  Metaphysical Fiction"}
+{"id": 1990, "content": "Adventure  $  Science Fiction  $  Point and Click  $  Puzzle  $  Indie  $  Graphic Adventure  $  Retro Style  $  Time Travel  $  Mobile Game  $  Atmospheric"}
+{"id": 1991, "content": "Horror  $  Fantasy  $  Thriller  $  Dark Fantasy  $  Supernatural Fiction  $  Paranormal  $  Gothic  $  Occult  $  Adventure   $  Mystery "}
+{"id": 1992, "content": "Historical Fiction  $  Adventure  $  Drama  $  Mystery  $  Action  $  Romance   $  Period Drama  $  Sword and Sandal  $  Swashbuckler  $  Costume Drama"}
+{"id": 1993, "content": "Classical Music  $  Opera  $  Symphonic Poem  $  Romantic Music  $  Ballet Score  $  Chamber Music  $  Orchestral Suite  $  Program Music  $  Choral Music  $  Contemporary Classical Music"}
+{"id": 1994, "content": "Horror  $  Slasher  $  Psychological horror  $  Mystery  $  Thriller  $  Action-Horror  $  Suspenseful  $  Crime-Horror  $  Torture-Horror  $  Gore-Horror"}
+{"id": 1995, "content": "Comedy  $  Romance  $  Dramedy  $  Musical  $  Slice-of-Life  $  Family  $  Satire  $  Feel-good  $  Fantasy  $  Animation"}
+{"id": 1996, "content": "Folk  $  Fairytale  $  Dutch Legend  $  Mythology  $  European Folklore  $  Tales  $  Saga  $  Traditional Story  $  European Myth  $  Legendary Figure"}
+{"id": 1997, "content": "Basketball  $  Football  $  Track and Field  $  Baseball  $  Soccer  $  Wrestling  $  Tennis  $  Golf  $  Swimming  $  Volleyball"}
+{"id": 1998, "content": "Electronic  $  Indie pop  $  Experimental  $  French touch  $  Synthpop  $  Art rock  $  Baroque pop  $  Avant-garde  $  Darkwave  $  World music"}
+{"id": 1999, "content": "Pop  $  Rock  $  Latin Pop  $  Reggaeton  $  Urban  $  Tropical  $  Ballad  $  Dancehall  $  R&B  $  Hip-Hop"}
+{"id": 2000, "content": "Poetry  $  Mythology  $  Latin Literature  $  Roman Literature  $  Epic Poetry  $  Metamorphoses   $  Fasti   $  Amores   $  Tragedy   $  Prose "}
+{"id": 2001, "content": "Mystery Thriller  $  Crime Fiction  $  Adventure  $  Romance  $  Science Fiction  $  Fantasy  $  Horror  $  Historical Fiction  $  Drama  $  Suspense"}
+{"id": 2002, "content": "Death Metal  $  Black Metal  $  Doom Metal  $  Gothic Metal  $  Thrash Metal  $  Symphonic Metal  $  Folk Metal  $  Technical Death Metal  $  Melodic Death Metal  $  Progressive Metal"}
+{"id": 2003, "content": "Drama  $  Comedy  $  Thriller  $  Action  $  Horror  $  Romance  $  Sci-fi  $  Mystery  $  Adventure  $  Fantasy"}
+{"id": 2004, "content": "Space  $  Cosmic  $  Void  $  Darkness  $  Nebula  $  Galactic  $  Astral  $  Interstellar  $  Meteorological   $  Planetary"}
+{"id": 2005, "content": "Sitcom  $  Comedy-Variety  $  Radio comedy  $  Classic Sitcom  $  Vaudeville Comedy  $  Classic Television Comedy  $  Golden Age of Television Comedy  $  Situation Comedy  $  Old Time Radio Comedy  $  1950s Television Comedy"}
+{"id": 2006, "content": "Action  $  Adventure  $  Role-playing   $  Simulation  $  Strategy  $  First-person shooter   $  Horror  $  Sports  $  Puzzle  $  Fighting"}
+{"id": 2007, "content": "Science Fiction  $  Fantasy  $  Dystopia  $  Post-apocalyptic  $  Adventure  $  Mystery  $  Thriller  $  Speculative Fiction  $  Horror   $  Historical Fiction "}
+{"id": 2008, "content": "Country  $  Rock  $  Americana  $  Folk  $  Bluegrass  $  Southern Rock  $  Roots Music  $  Alternative Country  $  Blues Rock  $  Traditional Country"}
+{"id": 2009, "content": "Apocalypse  $  Post-Apocalyptic  $  Science Fiction  $  Dystopian  $  Romance  $  Drama  $  Thriller  $  Fantasy   $  Horror   $  Action "}
+{"id": 2010, "content": "Action  $  Adventure  $  Fantasy  $  Mythology  $  Drama  $  Comedy  $  Animation  $  Epic  $  Family  $  Children's"}
+{"id": 2011, "content": "Rock  $  Hard Rock  $  Heavy Metal  $  Classic Rock  $  AOR   $  Glam Metal  $  Hair Metal  $  Blues Rock  $  Progressive Rock  $  Space Rock"}
+{"id": 2012, "content": "Adventure  $  Action  $  Fantasy  $  Thriller  $  Mystery  $  Horror  $  Comic Book  $  Science Fiction  $  Drama  $  Romance"}
+{"id": 2013, "content": "Action-Adventure  $  Puzzle  $  Casual Game  $  Arcade  $  Simulation  $  Platformer  $  Strategy   $  Rhythm   $  Sports   $  Role-Playing Game  "}
+{"id": 2014, "content": "Clergy  $  Drama  $  Mystery  $  Comedy-Drama  $  Historical Fiction  $  Irish Literature  $  Religious Fiction  $  Inspirational Fiction  $  Crime Drama  $  Psychological Thriller"}
+{"id": 2015, "content": "Pop  $  R&B  $  Soul  $  Neo-Soul  $  Jazz  $  Blues  $  Gospel  $  Funk  $  Alternative R&B  $  Electronic"}
+{"id": 2016, "content": "Rock  $  Singer-songwriter  $  Pop  $  Latin pop  $  Indie  $  Folk  $  Alternative  $  Urban  $  Ballad  $  Contemporary"}
+{"id": 2017, "content": "Comedy  $  Sitcom  $  Drama  $  Family  $  Television Series  $  Mockumentary  $  Sibling Relationships  $  Situational Comedy  $  Multi-Camera Sitcom  $  Family Drama"}
+{"id": 2018, "content": "War  $  Historical  $  Drama  $  Action  $  Chinese  $  Epic  $  Military  $  Biographical  $  Period  $  Patriotic"}
+{"id": 2019, "content": "Romantic Comedy  $  Drama  $  Musical  $  Coming-of-Age  $  Romance Drama  $  Wedding Film  $  Family Drama  $  Romantic Drama   $  Comedy-Drama  $  Musical Comedy"}
+{"id": 2020, "content": "Mystery  $  Thriller  $  Suspense  $  Psychological Thriller  $  Drama  $  Crime  $  Horror   $  Romance   $  Historical Fiction   $  Science Fiction "}
+{"id": 2021, "content": "NASCAR Racing  $  Stock Car Racing  $  Motorsport  $  Auto Racing  $  Racing   $  Richard Petty's Race  $  Talladega Race  $  Grand Prix - Talladega  $  Speedway Event - Talladega  $  Competitive Driving - Talladega"}
+{"id": 2022, "content": "Thriller  $  Mystery  $  Horror  $  Sci-fi   $  Adventure   $  Drama   $  Action   $  Romance   $  Comedy   $  Historical "}
+{"id": 2023, "content": "Platformer  $  Action-Adventure  $  Beat 'em up  $  Side-scrolling  $  Runner   $  Comic beat 'em up  $  Adventure game  $  Scrolling shooter   $  Fighting   $  Puzzle platformer"}
+{"id": 2024, "content": "Jazz  $  Blues  $  Vocal Jazz  $  Piano Jazz  $  Instrumental Jazz  $  Americana  $  Folk  $  Avant-garde Jazz  $  Experimental Music  $  World Music"}
+{"id": 2025, "content": "Pop  $  Rock  $  Hip-Hop/Rap  $  Electronic Dance Music   $  R&B  $  Country  $  Jazz  $  Classical  $  Reggae  $  Folk"}
+{"id": 2026, "content": "R&B  $  Pop  $  Soul  $  Urban Contemporary  $  Dance  $  Slow Jamz  $  Alternative R&B  $  Neo-Soul  $  Urban Pop  $  Contemporary R&B"}
+{"id": 2027, "content": "Sci-fi  $  Apocalyptic Fiction  $  Dystopian  $  Post-apocalyptic  $  Speculative Fiction  $  End of Days  $  Disaster Fiction  $  Futuristic Thriller  $  Catastrophe Literature  $  Eschatology Fiction"}
+{"id": 2028, "content": "Fantasy  $  Historical Fiction  $  Epic  $  Adventure  $  High Fantasy  $  Sword and Sorcery  $  Royal Drama  $  Mythological  $  Courtly Love  $  Political Thriller"}
+{"id": 2029, "content": "Cyberpunk  $  Science Fiction  $  Dystopian  $  Speculative Fiction  $  Post-Cyberpunk  $  Neo-Noir  $  Tech Noir  $  Dark Fiction  $  Futuristic Thriller  $  Visionary Fiction"}
+{"id": 2030, "content": "Alternative Rock  $  Indie Rock  $  Psychedelic Rock  $  Experimental Rock  $  Shoegaze  $  Dream Pop  $  Art Rock  $  Garage Rock  $  Neo-Psychedelia  $  Post-Rock"}
+{"id": 2031, "content": "Electronic Music  $  Dance Music  $  House Music  $  Techno Music  $  Deep House  $  Electro  $  Downtempo  $  Trance Music  $  Experimental Electronic  $  Indie Dance"}
+{"id": 2032, "content": "Jazz  $  Blues  $  Soul  $  R&B  $  Funk  $  Pop  $  Gospel  $  Rock  $  Neo-soul  $  Experimental"}
+{"id": 2033, "content": "Rock  $  Pop  $  Indie  $  Alternative  $  Country  $  Hip-Hop/Rap  $  Electronic  $  R&B  $  Metal  $  Jazz"}
+{"id": 2034, "content": "Western  $  Country  $  Folk  $  Blues  $  Rockabilly  $  Americana  $  Pop  $  Soul  $  R&B  $  Jazz"}
+{"id": 2035, "content": "Folk  $  Classical  $  Instrumental  $  Symphonic  $  Ambient  $  Progressive Rock  $  Soundtrack  $  Orchestral  $  Cinematic  $  World Music"}
+{"id": 2036, "content": "R&B/Soul  $  Pop  $  Hip-Hop/Rap  $  Alternative  $  Indie  $  Electronic Dance Music   $  Rock  $  Jazz  $  Gospel  $  Country"}
+{"id": 2037, "content": "Thriller  $  Mystery  $  Crime  $  Horror  $  Psychological  $  Supernatural  $  Suspense  $  Noir  $  Ghost Story  $  Detective Fiction"}
+{"id": 2038, "content": "Tamil Drama  $  Romance  $  Period Drama  $  Musical  $  Historical Fiction  $  Action  $  Family Drama  $  War  $  Tragedy  $  Mystery"}
+{"id": 2039, "content": "Jazz piano  $  Norwegian jazz  $  Modern jazz  $  Contemporary piano  $  Improvisational music  $  Avant-garde jazz  $  Scandinavian jazz  $  Piano improvisation  $  Nordic jazz  $  Creative music"}
+{"id": 2040, "content": "Science Fiction  $  Speculative Fiction  $  Short Stories   $  Science Fiction Short Stories  $  Nebula Award-winning Short Stories  $  Nebula Awards Showcase 2005 - Science Fiction  $  Nebula Awards Showcase 2005 - Speculative Fiction  $  Nebula Awards Showcase 2005 - Anthology  $  Nebula Awards Showcase 2005 - Genre: Science Fiction & Speculative Fiction  $  Nebula Awards Showcase 2005 - Various Genres: Including Science Fiction"}
+{"id": 2041, "content": "Adventure  $  Fantasy  $  Comedy  $  Drama  $  Mystery  $  Romance  $  Science Fiction  $  Horror  $  Thriller  $  Action"}
+{"id": 2042, "content": "Action  $  Adventure  $  Shooter  $  Puzzle  $  Stealth  $  Open-world  $  Survival  $  Strategy  $  First-person shooter  $  Role-playing game"}
+{"id": 2043, "content": "Thriller  $  Mystery  $  Suspense  $  Crime  $  Psychological Thriller  $  Horror  $  Drama with Thriller Elements  $  Supernatural Thriller  $  Noir Thriller  $  Techno-thriller"}
+{"id": 2044, "content": "Action-Adventure  $  Drama  $  Mystery  $  Thriller  $  Historical  $  Romance  $  War  $  Crime  $  Epic  $  Fantasy"}
+{"id": 2045, "content": "Novel  $  Novella  $  Short Story Collection  $  Political Thriller  $  Historical Fiction  $  Lost City Fable  $  Literary Fiction  $  Drama  $  Adventure  $  Mystery"}
+{"id": 2046, "content": "Drama  $  Comedy  $  Science Fiction  $  Mystery  $  Romance  $  Thriller  $  Horror  $  Adventure  $  Fantasy  $  Historical"}
+{"id": 2047, "content": "Humanoid  $  Homo Sapiens  $  Mammal  $  Species  $  Primate  $  Anthropoid  $  Bipedal  $  Sapient  $  Hominid  $  Terran"}
+{"id": 2048, "content": "Country  $  Rock  $  Pop-Rock  $  Americana  $  Folk  $  Singer-Songwriter  $  Blues-Rock  $  Roots Rock  $  Alt-Country  $  Classic Country"}
+{"id": 2049, "content": "Thriller  $  Mystery  $  Suspense  $  Drama  $  Adventure  $  Crime  $  Fantasy  $  Romance  $  Horror  $  Science Fiction"}
+{"id": 2050, "content": "Science Fiction  $  Speculative Fiction  $  Short Story Writer  $  Essayist  $  Novelist  $  Editor  $  Critic  $  Futurian  $  Satirist   $  Screenwriter"}
+{"id": 2051, "content": "Rockabilly  $  Rock 'n' Roll  $  Doo-Wop  $  Pop  $  Country  $  Blues  $  Rhythm and Blues  $  Novelty  $  Early Rock  $  Teen Pop"}
+{"id": 2052, "content": "Drama  $  Biography  $  Sports  $  Historical  $  Period  $  Action  $  War  $  Artistic  $  Based on True Events  $  International Relations"}
+{"id": 2053, "content": "Western  $  Neo-Western  $  Action-Adventure   $  Drama   $  Period Drama  $  Revisionist Western  $  Spaghetti Western  $  Epic Western  $  Frontier Film  $  Cowboy and Western Films"}
+{"id": 2054, "content": "Jazz  $  Post-Bop  $  Avant-Garde Jazz  $  Free Jazz  $  Experimental Jazz  $  Contemporary Jazz  $  Hard Bop  $  Fusion Jazz  $  Modern Jazz  $  Improvised Music"}
+{"id": 2055, "content": "Horror  $  Slasher  $  Thriller  $  Action-Horror  $  Gore  $  Psychological Horror  $  Splatter  $  Torture Porn  $  Supernatural Horror  $  Found Footage"}
+{"id": 2056, "content": "Jazz  $  R&B  $  Soul  $  Blues  $  Gospel  $  Neo-soul  $  Vocal jazz  $  Contemporary R&B  $  Spiritual music  $  Urban adult contemporary"}
+{"id": 2057, "content": "Pop  $  Rock  $  Jazz  $  Country  $  R&B  $  Classical  $  Blues  $  Electronic  $  Hip Hop  $  Gospel"}
+{"id": 2058, "content": "Producer  $  Composer  $  Musician  $  Engineer   $  Sound Designer  $  Record Producer  $  Arranger  $  Songwriter  $  Sound Engineer  $  Recording Artist"}
+{"id": 2059, "content": "Soul  $  Motown  $  R&B  $  Pop  $  Rock  $  Blues  $  Funk  $  Soft Rock  $  Disco  $  Jazz"}
+{"id": 2060, "content": "Mystery  $  Thriller  $  Crime  $  Suspense  $  Detective Fiction  $  Noir  $  Psychological Thriller  $  Police Procedural  $  Gothic Horror   $  Historical Mystery "}
+{"id": 2061, "content": "Drama  $  Historical Fiction  $  Mythology  $  Fantasy  $  Epic  $  Adventure  $  Romance  $  Action  $  War  $  Mystery"}
+{"id": 2062, "content": "Mystery  $  Thriller  $  Suspense  $  Crime  $  Drama  $  Action  $  Comedy  $  Romance  $  Fantasy  $  Historical"}
+{"id": 2063, "content": "Jazz Singer  $  Blues Artist  $  Vocal Jazz  $  Americana Musician  $  Jazz Vocalist  $  Cabaret Singer  $  Adult Contemporary Singer  $  Vocalist   $  Country-Blues Singer  $  Traditional Pop Singer"}
+{"id": 2064, "content": "Pop Rock  $  New Wave  $  Punk Rock  $  Disco  $  Synthpop  $  Power Pop  $  Dance-Rock  $  Hard Rock  $  Post-Punk  $  Rockabilly"}
+{"id": 2065, "content": "Action  $  Adventure  $  Fantasy  $  Drama  $  Martial Arts  $  Historical  $  Science Fiction  $  War  $  Mystery  $  Thriller"}
+{"id": 2066, "content": "Fantasy  $  Children's Fiction  $  Fairy Tale  $  Adventure  $  Magic Realism  $  Mystery  $  Allegory  $  Literary Fiction  $  Folklore  $  Speculative Fiction"}
+{"id": 2067, "content": "Pop  $  R&B  $  Hip Hop  $  Soul  $  Urban Contemporary  $  Neo-Soul  $  Alternative R&B  $  Indie Pop  $  Trap Soul  $  Electro-Pop"}
+{"id": 2068, "content": "Pop  $  R&B  $  Soul  $  Indie  $  Soft Rock  $  Contemporary R&B  $  Alternative R&B  $  Urban  $  Adult Contemporary  $  Neo-Soul"}
+{"id": 2069, "content": "Country  $  Folk  $  Americana  $  Singer-Songwriter  $  Bluegrass  $  Acoustic  $  Roots Music  $  Indie  $  Pop-Country  $  Alt-Country"}
+{"id": 2070, "content": "Cuisine  $  Food  $  Type_of_food  $  Dish_type  $  Meal_category  $  Gastronomy  $  Meal_genre  $  Culinary_style  $  Meal_classification  $  Food_group"}
+{"id": 2071, "content": "Pop  $  Latin pop  $  Ballad  $  Spanish pop  $  Romantic ballad  $  Latin romantic ballad  $  Love song  $  Spanish love song  $  Tropical pop  $  Urban pop"}
+{"id": 2072, "content": "Folk  $  Jazz  $  Blues  $  Country  $  Rock  $  Pop  $  Electronic  $  Hip Hop/Rap  $  Reggae  $  Classical"}
+{"id": 2073, "content": "Drama  $  Thriller  $  Historical Fiction  $  Romance  $  Mystery  $  War  $  Fantasy  $  Adventure  $  Science Fiction  $  Biography"}
+{"id": 2074, "content": "Rock  $  Alternative  $  Classic Rock  $  Hard Rock  $  Metal  $  Punk  $  Indie Rock  $  Grunge  $  Post-Punk  $  Garage Rock"}
+{"id": 2075, "content": "Soap opera  $  Drama  $  British soap opera  $  Television drama series  $  British television drama series  $  Daily serial drama  $  British daily serial drama  $  Long-running serial drama  $  British long-running serial drama  $  Family drama "}
+{"id": 2076, "content": "Horror  $  Mystery  $  Thriller  $  Fantasy  $  Science Fiction  $  Supernatural  $  Gothic  $  Psuedoscience  $  Paranormal  $  Weird fiction"}
+{"id": 2077, "content": "Drama  $  Mystery  $  Thriller  $  Romance  $  Science Fiction  $  Fantasy  $  Horror  $  Comedy  $  Adventure  $  Historical"}
+{"id": 2078, "content": "Drama  $  Mystery  $  Crime  $  Historical Fiction  $  Period Drama  $  Thriller  $  Western  $  Adventure  $  Biographical  $  Romance"}
+{"id": 2079, "content": "Azerbaijani Mugham  $  Classical Music - Azerbaijan  $  Turkish Mugham  $  Eastern Classical Music  $  Folk Music - Azerbaijan  $  Traditional Azerbaijani Music  $  Mugham Music  $  Oriental Music - Azerbaijan  $  Art Music - Azerbaijan  $  Regional music - Azerbaijan"}
+{"id": 2080, "content": "Rock  $  Psychedelic Rock  $  Jam Band  $  Blues Rock  $  Americana  $  Folk Rock  $  Country Rock  $  Fusion  $  Experimental Rock  $  Garage Rock"}
+{"id": 2081, "content": "Romance  $  Drama  $  Comedy-Drama  $  Musical  $  Biography  $  Love Story  $  Film-Noir  $  Art House  $  Indie  $  Experimental"}
+{"id": 2082, "content": "Western  $  Historical Fiction  $  Literary Fiction  $  Drama  $  Romance  $  Regional  $  Agriculture  $  Settlement  $  Social Issues  $  Biographical"}
+{"id": 2083, "content": "Rock  $  Progressive Rock  $  Symphonic Rock  $  Art Rock  $  Arena Rock  $  Psychedelic Rock  $  Prog Metal  $  New Wave  $  Synth-pop  $  Experimental Music"}
+{"id": 2084, "content": "Experimental Film  $  Avant-garde Cinema  $  Art House Film  $  Arthouse Experimental  $  Independent Film  $  Underground Film  $  Experimental Art  $  Artistic Cinema  $  Contemporary Art Film  $  Alternative Cinema"}
+{"id": 2085, "content": "Science Fiction  $  Cosmic Horror  $  Space Opera  $  Alternate History  $  Dystopian  $  Speculative Fiction  $  Hard Sci-Fi  $  Space Fantasy  $  Cosmic Adventure  $  Apocalyptic"}
+{"id": 2086, "content": "Jazz  $  Bebop  $  Post-bop  $  Hard bop  $  Cool jazz  $  Small group jazz  $  Tenor saxophone jazz  $  Straight-ahead jazz  $  Swing jazz  $  Contemporary jazz"}
+{"id": 2087, "content": "Classical Music  $  Jazz Music  $  Latin Music  $  Opera  $  Pianist  $  Composer  $  Conductor  $  Soloist  $  Contemporary Music  $  Orchestral Music"}
+{"id": 2088, "content": "Country  $  Southern Rock  $  Traditional Country  $  Modern Country  $  Country Music  $  Americana  $  Country Pop  $  Contemporary Country  $  Country Ballads  $  Roots Rock"}
+{"id": 2089, "content": "Science Fiction  $  Fantasy  $  Mystery  $  Alternative History  $  Speculative Fiction  $  Philosophical Fiction  $  Magical Realism  $  Metaphysical Fiction  $  Conspiracy Theory Fiction  $  Postmodern Fiction"}
+{"id": 2090, "content": "Comedy-Drama  $  Road trip  $  Adventure  $  Dramedy  $  Comedy  $  Female buddy  $  Road movie  $  Friendship  $  Coming-of-age  $  Women's fiction"}
+{"id": 2091, "content": "Drama  $  Romance  $  Historical  $  Period Piece  $  Musical  $  Coming-of-Age  $  Cultural  $  New Zealand Cinema  $  Independent Film  $  Indigenous Cinema"}
+{"id": 2092, "content": "Unknown  $  Illegal Substance  $  Narcotic  $  Street Drug  $  Controlled Substance  $  Cocaine   $  Recreational Drug  $  Illicit Drug  $  Prohibited Substance  $  Illegal Narcotic"}
+{"id": 2093, "content": "Traditional Theatre  $  Kathakali  $  Yakshagana  $  Terukkuttu  $  Bharatanatyam  $  Koodiyattam  $  Theyyam  $  Ottan-Thullal  $  Mohiniyattam  $  Chhau Dance"}
+{"id": 2094, "content": "Electronic Musician  $  Industrial Metal Artist  $  Synthwave Producer  $  Dark Ambient Music Artist  $  Future Garage Producer  $  Techno Musician  $  Experimental Music Artist  $  IDM  Producer  $  Power Noise Musician  $  Aggrotech Music Artist"}
+{"id": 2095, "content": "Action-Adventure  $  Pirate Adventure  $  Swashbuckling  $  Fantasy-Action  $  Sea Adventure  $  Nautical Adventure  $  Pirate Drama  $  Historical-Fiction  $  Adventure-Thriller  $  Action-Fantasy"}
+{"id": 2096, "content": "Jazz  $  Contemporary Jazz  $  Avant-Garde Jazz  $  World Music  $  Multi-Cultural Music  $  Fusion   $  Singer-Songwriter  $  Ethnic Music  $  Progressive Jazz  $  Experimental Music"}
+{"id": 2097, "content": "Horror  $  Supernatural  $  Drama  $  Mystery  $  Thriller  $  Suspense  $  Ghost Story  $  Psychological Horror  $  Paranormal  $  Fantasy"}
+{"id": 2098, "content": "Comedy Actor  $  Character Actor  $  Dramatic Actor  $  Mexican-American Actor  $  Film and Television Actor  $  Stage and Screen Actor  $  Impressionist Actor  $  Motion Picture Actor  $  Theatrical Actor  $  Voiceover Actor"}
+{"id": 2099, "content": "Electronic  $  Dance  $  House  $  Techno  $  Trance  $  Synthwave  $  Future Bass  $  Drum and Bass  $  Ambient  $  IDM "}
+{"id": 2100, "content": "Thriller  $  Crime  $  Mystery  $  Drama  $  Action  $  Film Noir  $  Suspense  $  Adventure  $  Psychological  $  Political Thriller"}

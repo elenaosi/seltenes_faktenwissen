@@ -1,0 +1,300 @@
+{"id": 1, "content": "Australia $  New Zealand $  Canada $  United States $  United Kingdom $  South Africa $  Ireland $  Germany $  France $  Italy"}
+{"id": 2, "content": "Japan $  China $  South Korea $  North Korea $  Taiwan $  Vietnam $  Thailand $  Philippines $  Malaysia $  Indonesia"}
+{"id": 3, "content": "Ireland $  England $  Scotland $  Wales $  Northern Ireland $  United Kingdom $  Australia $  Canada $  New Zealand $  United States"}
+{"id": 4, "content": "France $  Belgium $  Switzerland $  Luxembourg $  Germany $  Netherlands $  Italy $  Spain $  Austria $  United Kingdom"}
+{"id": 5, "content": "France $  Spain $  Belgium $  Switzerland $  Canada $  Luxembourg $  Monaco $  Algeria $  Morocco $  Tunisia"}
+{"id": 6, "content": "India $  Bangladesh $  Myanmar $  Nepal $  Bhutan $  Thailand $  Malaysia $  Sri Lanka $  Pakistan $  Cambodia"}
+{"id": 7, "content": "Bolivia $  Peru $  Chile $  Argentina $  Ecuador $  Colombia $  Paraguay $  Mexico $  Brazil $  Uruguay"}
+{"id": 8, "content": "United States $  Canada $  United Kingdom $  Australia $  New Zealand $  South Africa $  Ireland $  Germany $  France $  India"}
+{"id": 9, "content": "Canada $  United States $  France $  Belgium $  Australia $  United Kingdom $  South Africa $  New Zealand $  Switzerland $  Germany"}
+{"id": 10, "content": "Russia $  Tatarstan $  Russian Federation $  RUS $  Rusland $  Federation of Russia $  Kazan $  Eastern Europe $  Eurasia $  RU"}
+{"id": 11, "content": "Norway $  Sweden $  Finland $  Iceland $  Denmark $  Greenland $  Estonia $  Latvia $  Lithuania $  Russia"}
+{"id": 12, "content": "India $  USA $  Germany $  China $  United Kingdom $  Japan $  Canada $  France $  Australia $  South Korea"}
+{"id": 13, "content": "Greece $  Italy $  Turkey $  Spain $  Portugal $  France $  Albania $  Cyprus $  Bulgaria $  Croatia"}
+{"id": 14, "content": "Canada $  the United States $  Australia $  Russia $  Brazil $  Argentina $  China $  India $  South Africa $  Mexico"}
+{"id": 15, "content": "Australia $  New Zealand $  United States $  Canada $  United Kingdom $  South Africa $  Ireland $  Singapore $  Malaysia $  India"}
+{"id": 16, "content": "Turkey $  Iran $  Iraq $  Syria $  Uzbekistan $  Tajikistan $  Kazakhstan $  Afghanistan $  Turkmenistan $  Azerbaijan"}
+{"id": 17, "content": "Faroe Islands $  Denmark $  Iceland $  Norway $  Greenland $  Sweden $  Finland $  Ireland $  Scotland $  United Kingdom"}
+{"id": 18, "content": "Australia $  New Zealand $  South Africa $  Canada $  United States $  United Kingdom $  Brazil $  India $  Malaysia $  Indonesia"}
+{"id": 19, "content": "United Kingdom $  England $  Great Britain $  UK $  Britain $  Scotland $  Wales $  Northern Ireland $  Ireland $  Europe"}
+{"id": 20, "content": "India $  Bangladesh $  Myanmar $  Nepal $  Bhutan $  Thailand $  China $  Sri Lanka $  Pakistan $  Malaysia"}
+{"id": 21, "content": "Ukraine $  Russia $  Poland $  Belarus $  Kazakhstan $  Moldova $  Romania $  Bulgaria $  Latvia $  Lithuania"}
+{"id": 22, "content": "Philippines $  Indonesia $  Malaysia $  Thailand $  Vietnam $  Cambodia $  Laos $  Singapore $  Brunei $  Myanmar"}
+{"id": 23, "content": "Peru $  Chile $  Ecuador $  Argentina $  Bolivia $  Colombia $  Venezuela $  Brazil $  Paraguay $  Uruguay"}
+{"id": 24, "content": "Nigeria $  Pakistan $  Kenya $  Uganda $  Tanzania $  Zambia $  Zimbabwe $  South Africa $  Ghana $  Somalia"}
+{"id": 25, "content": "Germany $  France $  Austria $  Switzerland $  Belgium $  Netherlands $  Luxembourg $  Liechtenstein $  Czech Republic $  Poland"}
+{"id": 26, "content": "France $  Spain $  Italy $  Belgium $  Switzerland $  Portugal $  Germany $  Luxembourg $  Monaco $  Andorra"}
+{"id": 27, "content": "Italy $  Spain $  Portugal $  France $  Brazil $  Argentina $  Mexico $  Colombia $  Chile $  Philippines"}
+{"id": 28, "content": "Germany $  Deutschland $  Federal Republic of Germany $  FRG $  Germany (Deutschland) $  GER $  German Federal Republic $  Federal Republic $  GDR $  DE"}
+{"id": 29, "content": "Pakistan $  India $  Bangladesh $  Sri Lanka $  Nepal $  Afghanistan $  Bhutan $  Iran $  Iraq $  United Arab Emirates"}
+{"id": 30, "content": "Bulgaria $  Bosnia and Herzegovina $  Croatia $  Serbia $  North Macedonia $  Slovenia $  Montenegro $  Albania $  Kosovo $  Romania"}
+{"id": 31, "content": "Azerbaijan $  Georgia $  Armenia $  Turkey $  Russia $  Iran $  Kazakhstan $  Ukraine $  Turkmenistan $  Uzbekistan"}
+{"id": 32, "content": "Italy $  Sardinia $  the Italian Republic $  the Mediterranean region $  Western Europe $  Southern Europe $  Europe $  Italy (Sardinia) $  Italian Peninsula $  the Eurozone"}
+{"id": 33, "content": "West Germany $  East Germany $  Soviet Union $  Poland $  Czechoslovakia $  Hungary $  Austria $  Switzerland $  United States $  France"}
+{"id": 34, "content": "Greece $  Bulgaria $  Turkey $  North Macedonia $  Albania $  Serbia $  Kosovo $  Montenegro $  Romania $  Croatia"}
+{"id": 35, "content": "Poland $  Slovakia $  Czech Republic $  Ukraine $  Hungary $  Germany $  Austria $  Romania $  Slovenia $  Lithuania"}
+{"id": 36, "content": "Spain $  Portugal $  Mexico $  Argentina $  Colombia $  Chile $  Peru $  Venezuela $  Ecuador $  Uruguay"}
+{"id": 37, "content": "Italy $  Vatican City $  San Marino $  Switzerland $  France $  Spain $  Monaco $  Malta $  Greece $  Croatia"}
+{"id": 38, "content": "Germany $  United Kingdom $  Belgium $  France $  Netherlands $  Sweden $  Switzerland $  Finland $  Norway $  Austria"}
+{"id": 39, "content": "Iran $  Pakistan $  India $  Afghanistan $  Iraq $  Turkey $  Uzbekistan $  Kazakhstan $  Syria $  Tajikistan"}
+{"id": 40, "content": "Germany $  Austria $  Switzerland $  Belgium $  Netherlands $  Luxembourg $  France $  Poland $  Czech Republic $  Denmark"}
+{"id": 41, "content": "United States $  Germany $  United Kingdom $  Switzerland $  Canada $  Australia $  Netherlands $  Sweden $  Denmark $  Norway"}
+{"id": 42, "content": "Iran $  Iraq $  Afghanistan $  Pakistan $  Turkey $  Azerbaijan $  Turkmenistan $  Armenia $  Syria $  Kuwait"}
+{"id": 43, "content": "Portugal $  France $  Germany $  Italy $  Spain $  Netherlands $  Russia $  Hungary $  Poland $  Czech Republic"}
+{"id": 44, "content": "Italy $  Greece $  Spain $  Albania $  Turkey $  Portugal $  Cyprus $  Croatia $  Montenegro $  North Macedonia"}
+{"id": 45, "content": "Slovakia $  Czech Republic $  Poland $  Hungary $  Austria $  Ukraine $  Serbia $  Croatia $  Slovenia $  Romania"}
+{"id": 46, "content": "North Korea $  South Korea $  China $  Russia $  Japan $  Mongolia $  Vietnam $  Thailand $  Myanmar $  Laos"}
+{"id": 47, "content": "Iran $  Pakistan $  Afghanistan $  India $  Turkey $  Iraq $  Saudi Arabia $  Syria $  Uzbekistan $  Turkmenistan"}
+{"id": 48, "content": "Japan $  France $  Italy $  South Korea $  Germany $  Netherlands $  United States $  Brazil $  Russia $  United Kingdom"}
+{"id": 49, "content": "Taiwan $  China $  Japan $  Vietnam $  Malaysia $  Indonesia $  Philippines $  Singapore $  Thailand $  South Korea"}
+{"id": 50, "content": "Bosnia and Herzegovina $  Serbia $  Croatia $  Montenegro $  Slovenia $  North Macedonia $  Albania $  Kosovo $  Bulgaria $  Romania"}
+{"id": 51, "content": "England $  the United Kingdom $  Britain $  the UK $  Great Britain $  the British Isles $  Europe $  Norfolk $  East Anglia $  the United States"}
+{"id": 52, "content": "Norway $  Sweden $  Denmark $  Finland $  Iceland $  Greenland $  Faroe Islands $  Estonia $  Latvia $  Lithuania"}
+{"id": 53, "content": "Italy $  France $  Germany $  United Kingdom $  Spain $  Switzerland $  Austria $  Netherlands $  Belgium $  Portugal"}
+{"id": 54, "content": "Slovakia $  Czech Republic $  Hungary $  Poland $  Austria $  Romania $  Ukraine $  Slovenia $  Croatia $  Serbia"}
+{"id": 55, "content": "France $  Belgium $  Luxembourg $  Germany $  Switzerland $  Italy $  Spain $  Netherlands $  Austria $  Monaco"}
+{"id": 56, "content": "Japan $  Georgia $  Greece $  Italy $  Turkey $  Spain $  Portugal $  France $  England $  Iran"}
+{"id": 57, "content": "France $  Germany $  Switzerland $  Austria $  Luxembourg $  Belgium $  Netherlands $  Liechtenstein $  Italy $  Monaco"}
+{"id": 58, "content": "France $  the French Republic $  Republic of France $  Metropolitan France $  the European nation of France $  France proper $  Western Europe $  Francia $  France M\u00e9tropolitaine $  La R\u00e9publique Fran\u00e7aise"}
+{"id": 59, "content": "Poland $  Polska $  the Republic of Poland $  Polonia $  Eastern Europe $  Central Europe $  Europe $  the European Union $  EU $  PL"}
+{"id": 60, "content": "Germany $  France $  Switzerland $  Austria $  Belgium $  Luxembourg $  Netherlands $  Poland $  Czech Republic $  Denmark"}
+{"id": 61, "content": "Iran $  Afghanistan $  Pakistan $  Iraq $  Turkey $  Syria $  Turkmenistan $  Tajikistan $  Azerbaijan $  Armenia"}
+{"id": 62, "content": "Iran $  Afghanistan $  Tajikistan $  Pakistan $  Uzbekistan $  Turkmenistan $  Azerbaijan $  Armenia $  Turkey $  Iraq"}
+{"id": 63, "content": "Malaysia $  Indonesia $  Philippines $  Thailand $  Vietnam $  Myanmar $  Cambodia $  Laos $  Singapore $  Brunei"}
+{"id": 64, "content": "Morocco $  the Kingdom of Morocco $  northwest Africa $  Maghreb region $  Western Sahara $  Algeria $  Tunisia $  Mali $  Libya $  Mauritania"}
+{"id": 65, "content": "India $  China $  Bangladesh $  Myanmar $  Sri Lanka $  Pakistan $  Nepal $  Bhutan $  Thailand $  Vietnam"}
+{"id": 66, "content": "Brazil $  Portugal $  Angola $  Mozambique $  Cape Verde $  Guinea-Bissau $  East Timor $  Equatorial Guinea $  S\u00e3o Tom\u00e9 and Pr\u00edncipe $  Macau"}
+{"id": 67, "content": "France $  United States $  Spain $  Australia $  Mexico $  Brazil $  Italy $  United Arab Emirates $  South Africa $  Malaysia"}
+{"id": 68, "content": "India $  Bangladesh $  Pakistan $  Sri Lanka $  Nepal $  Bhutan $  Myanmar $  Thailand $  Indonesia $  Malaysia"}
+{"id": 69, "content": "Sweden $  Finland $  Norway $  Denmark $  Iceland $  Estonia $  Latvia $  Lithuania $  Poland $  Germany"}
+{"id": 70, "content": "United Kingdom $  England $  USA $  France $  Switzerland $  China $  Japan $  Germany $  Italy $  Netherlands"}
+{"id": 71, "content": "Italy $  France $  Spain $  Germany $  Switzerland $  Austria $  Belgium $  Netherlands $  Luxembourg $  Slovenia"}
+{"id": 72, "content": "Faroe Islands $  Denmark $  Iceland $  Norway $  Greenland $  Sweden $  Ireland $  United Kingdom $  Scotland $  Finland"}
+{"id": 73, "content": "'Australia' $  'New Zealand' $  'Canada' $  'United States' $  'United Kingdom' $  'South Africa' $  'Ireland' $  'India' $  'Singapore' $  'Malaysia'"}
+{"id": 74, "content": "Belgium $  France $  Netherlands $  Germany $  Switzerland $  Luxembourg $  Austria $  Denmark $  Italy $  Spain"}
+{"id": 75, "content": "United Kingdom $  India $  United States $  Australia $  Canada $  South Africa $  New Zealand $  Ireland $  Pakistan $  Bangladesh"}
+{"id": 76, "content": "Singapore $  Malaysia $  Indonesia $  Thailand $  Philippines $  Vietnam $  Brunei $  Myanmar $  Laos $  Cambodia"}
+{"id": 77, "content": "Greece $  Cyprus $  Turkey $  Italy $  Albania $  North Macedonia $  Bulgaria $  Serbia $  Montenegro $  Croatia"}
+{"id": 78, "content": "Iran $  Afghanistan $  Tajikistan $  Pakistan $  Iraq $  Azerbaijan $  Turkmenistan $  Uzbekistan $  Kyrgyzstan $  Armenia"}
+{"id": 79, "content": "North Korea $  South Korea $  China $  Japan $  Russia $  Vietnam $  Mongolia $  United States $  Canada $  Kazakhstan"}
+{"id": 80, "content": "Italy $  Switzerland $  France $  Austria $  Germany $  Slovenia $  Croatia $  Spain $  Greece $  Portugal"}
+{"id": 81, "content": "United States $  Canada $  Australia $  United Kingdom $  New Zealand $  Germany $  France $  South Africa $  India $  Brazil"}
+{"id": 82, "content": "Morocco $  Algeria $  Tunisia $  Libya $  Egypt $  Mauritania $  Spain $  France $  Portugal $  Italy"}
+{"id": 83, "content": "Bangladesh $  India $  Pakistan $  Nepal $  Sri Lanka $  Bhutan $  Myanmar $  Malaysia $  Thailand $  Indonesia"}
+{"id": 84, "content": "India $  Pakistan $  Bangladesh $  Sri Lanka $  Nepal $  Bhutan $  Myanmar $  Maldives $  Afghanistan $  Indonesia"}
+{"id": 85, "content": "Serbia $  Croatia $  Romania $  Bosnia and Herzegovina $  Slovenia $  Hungary $  Montenegro $  Macedonia $  Bulgaria $  Albania"}
+{"id": 86, "content": "France $  Germany $  Switzerland $  Belgium $  Luxembourg $  Austria $  Italy $  Netherlands $  Czech Republic $  Spain"}
+{"id": 87, "content": "Guatemala $  Mexico $  Honduras $  Belize $  El Salvador $  Costa Rica $  Nicaragua $  Panama $  Colombia $  Venezuela"}
+{"id": 88, "content": "Norway $  Sweden $  Denmark $  Finland $  Iceland $  Germany $  Netherlands $  United States $  Canada $  United Kingdom"}
+{"id": 89, "content": "Romania $  Moldova $  Hungary $  Serbia $  Ukraine $  Bulgaria $  Slovakia $  Croatia $  Bosnia and Herzegovina $  Albania"}
+{"id": 90, "content": "Czech Republic $  Czechia $  Slovakia $  Poland $  Germany $  Austria $  Hungary $  Slovenia $  Croatia $  Serbia"}
+{"id": 91, "content": "India $  Bangladesh $  Nepal $  Pakistan $  Sri Lanka $  Bhutan $  Myanmar $  Thailand $  Laos $  Cambodia"}
+{"id": 92, "content": "India $  Bangladesh $  Pakistan $  Nepal $  Sri Lanka $  Afghanistan $  Bhutan $  Myanmar $  Maldives $  Indonesia"}
+{"id": 93, "content": "Bosnia and Herzegovina $  Serbia $  Montenegro $  Croatia $  Slovenia $  North Macedonia $  Albania $  Bulgaria $  Romania $  Greece"}
+{"id": 94, "content": "Iran $  Iraq $  Afghanistan $  Turkey $  Pakistan $  Turkmenistan $  Azerbaijan $  Armenia $  Tajikistan $  Uzbekistan"}
+{"id": 95, "content": "Senegal $  Mali $  Guinea $  Mauritania $  Gambia $  Burkina Faso $  Guinea-Bissau $  Ivory Coast $  Niger $  Sierra Leone"}
+{"id": 96, "content": "Egypt $  Saudi Arabia $  United Arab Emirates $  Iraq $  Syria $  Jordan $  Lebanon $  Oman $  Yemen $  Libya"}
+{"id": 97, "content": "Zimbabwe $  Zambia $  Mozambique $  South Africa $  Botswana $  Malawi $  Namibia $  Angola $  Tanzania $  Democratic Republic of the Congo"}
+{"id": 98, "content": "France $  Belgium $  Switzerland $  Canada $  Luxembourg $  Monaco $  Haiti $  Mali $  Senegal $  Madagascar"}
+{"id": 99, "content": "Malaysia $  Indonesia $  Singapore $  Brunei $  Thailand $  Philippines $  India $  Pakistan $  Bangladesh $  Sri Lanka"}
+{"id": 100, "content": "Bosnia and Herzegovina $  Serbia $  Croatia $  Montenegro $  Slovenia $  North Macedonia $  Kosovo $  Albania $  Bulgaria $  Slovakia"}
+{"id": 101, "content": "United States $  United Kingdom $  Canada $  Australia $  India $  Germany $  France $  Singapore $  New Zealand $  Ireland"}
+{"id": 102, "content": "Iran $  India $  Pakistan $  Turkey $  Bangladesh $  Afghanistan $  United Arab Emirates $  Saudi Arabia $  Iraq $  Egypt"}
+{"id": 103, "content": "Bhutan $  India $  Nepal $  Bangladesh $  Sri Lanka $  Myanmar $  Thailand $  Pakistan $  Maldives $  China"}
+{"id": 104, "content": "France $  the United States $  Canada $  Italy $  Germany $  Spain $  Switzerland $  Belgium $  Austria $  Netherlands"}
+{"id": 105, "content": "Spain $  Ibiza $  Mallorca $  Menorca $  Formentera $  Balearic Islands $  Catalonia $  Majorca $  Minorca $  Mediterranean"}
+{"id": 106, "content": "Solomon Islands $  Japan $  Indonesia $  Papua New Guinea $  Vanuatu $  Fiji $  Philippines $  Micronesia $  Tonga $  New Zealand"}
+{"id": 107, "content": "Canada $  United States $  United Kingdom $  Australia $  New Zealand $  Ireland $  South Africa $  India $  Germany $  France"}
+{"id": 108, "content": "Mexico $  USA $  Colombia $  Argentina $  Chile $  Peru $  Ecuador $  Venezuela $  Brazil $  Uruguay"}
+{"id": 109, "content": "Bulgaria $  Ukraine $  Russia $  Romania $  Belarus $  Kazakhstan $  Poland $  Serbia $  Moldova $  North Macedonia"}
+{"id": 110, "content": "South Korea $  Mali $  Philippines $  Nigeria $  Mexico $  China $  Ethiopia $  India $  Uganda $  Tanzania"}
+{"id": 111, "content": "Germany $  Switzerland $  Austria $  Luxembourg $  Belgium $  Netherlands $  France $  Liechtenstein $  Czech Republic $  Poland"}
+{"id": 112, "content": "Brazil $  Portugal $  Angola $  Mozambique $  Cape Verde $  Guinea-Bissau $  East Timor $  S\u00e3o Tom\u00e9 and Pr\u00edncipe $  Macau $  Brazil"}
+{"id": 113, "content": "Hungary $  Austria $  Romania $  Slovakia $  Croatia $  Serbia $  Slovenia $  Czech Republic $  Bosnia and Herzegovina $  Ukraine"}
+{"id": 114, "content": "Germany $  Austria $  Switzerland $  Turkey $  Hungary $  Czech Republic $  Poland $  Slovakia $  Netherlands $  Belgium"}
+{"id": 115, "content": "Pakistan $  India $  Bangladesh $  Afghanistan $  Nepal $  Sri Lanka $  Iran $  Myanmar $  Saudi Arabia $  Iraq"}
+{"id": 116, "content": "France $  Belgium $  Switzerland $  Luxembourg $  Canada $  United States $  United Kingdom $  Germany $  Spain $  Italy"}
+{"id": 117, "content": "Italy $  Sicily $  Greece $  France $  Germany $  Spain $  Portugal $  Turkey $  Albania $  Malta"}
+{"id": 118, "content": "Spain $  Germany $  Switzerland $  France $  Italy $  Austria $  Portugal $  Belgium $  Netherlands $  Norway"}
+{"id": 119, "content": "Germany $  Austria $  Switzerland $  Liechtenstein $  Luxembourg $  Belgium $  Italy $  France $  Netherlands $  Denmark"}
+{"id": 120, "content": "Saudi Arabia $  Iraq $  Yemen $  Iran $  Syria $  Lebanon $  Egypt $  Jordan $  Oman $  Kuwait"}
+{"id": 121, "content": "Estonia $  Latvia $  Lithuania $  Finland $  Sweden $  Norway $  Denmark $  Russia $  Poland $  Germany"}
+{"id": 122, "content": "Sri Lanka $  India $  Bangladesh $  Pakistan $  Nepal $  Indonesia $  Malaysia $  Thailand $  Myanmar $  Philippines"}
+{"id": 123, "content": "Egypt $  of Egypt $  located in Egypt $  country of Egypt $  the country Egypt $  Egypt itself $  North Africa $  Middle East region $  Egyptian state $  Republic of Egypt"}
+{"id": 124, "content": "Australia $  New Zealand $  United States $  Canada $  United Kingdom $  South Africa $  Ireland $  India $  Singapore $  Malaysia"}
+{"id": 125, "content": "Nepal $  India $  Bangladesh $  Bhutan $  Myanmar $  Pakistan $  Sri Lanka $  China $  Thailand $  Malaysia"}
+{"id": 126, "content": "France $  United Kingdom $  Germany $  Spain $  Italy $  Belgium $  Netherlands $  Switzerland $  Austria $  Portugal"}
+{"id": 127, "content": "Netherlands $  Holland $  Kingdom of the Netherlands $  Dutch Republic $  Low Countries $  Nederland $  Western Europe $  European country $  Benelux $  The Hague (as a notable city within the country in context)"}
+{"id": 128, "content": "Sweden $  Denmark $  Norway $  Finland $  Iceland $  Germany $  Netherlands $  Belgium $  Austria $  Switzerland"}
+{"id": 129, "content": "North Korea $  Democratic People's Republic of Korea $  Korea North $  People's Republic of Korea $  South Korea $  Korea South $  China $  Russia $  Japan $  Mongolia"}
+{"id": 130, "content": "Scotland $  United Kingdom $  England $  Ireland $  Norway $  Sweden $  Denmark $  Iceland $  Canada $  New Zealand"}
+{"id": 131, "content": "Denmark $  Sweden $  Switzerland $  Norway $  Scotland $  Finland $  Germany $  Italy $  Russia $  Netherlands"}
+{"id": 132, "content": "Spain $  France $  Italy $  Portugal $  Andorra $  Belgium $  Switzerland $  Austria $  Germany $  Netherlands"}
+{"id": 133, "content": "Sweden $  Norway $  Denmark $  Finland $  Germany $  France $  Switzerland $  United Kingdom $  Netherlands $  Austria"}
+{"id": 134, "content": "Austria $  Germany $  Switzerland $  Netherlands $  Belgium $  Luxembourg $  Sweden $  Denmark $  Norway $  Finland"}
+{"id": 135, "content": "India $  Pakistan $  Nepal $  Bangladesh $  Sri Lanka $  Afghanistan $  Bhutan $  Maldives $  Myanmar $  Iran"}
+{"id": 136, "content": "Sweden $  Norway $  Finland $  Denmark $  Iceland $  Germany $  Netherlands $  Austria $  Switzerland $  Belgium"}
+{"id": 137, "content": "South Africa $  Namibia $  Zimbabwe $  Botswana $  Lesotho $  Eswatini (Swaziland) $  Zambia $  Mozambique $  Malawi $  Angola"}
+{"id": 138, "content": "South Korea $  North Korea $  China $  Japan $  Taiwan $  Russia $  Vietnam $  Philippines $  Malaysia $  Thailand"}
+{"id": 139, "content": "Russia $  Ukraine $  Belarus $  Poland $  Lithuania $  Latvia $  Estonia $  Kazakhstan $  Finland $  Czech Republic"}
+{"id": 140, "content": "India $  Sri Lanka $  Nepal $  Bangladesh $  Pakistan $  Myanmar $  Malaysia $  Indonesia $  Thailand $  Bhutan"}
+{"id": 141, "content": "Italy $  Italia $  Italiaan $  Italien $  Itali\u00eb $  Italija $  Italie $  \u0406\u0442\u0430\u043b\u0456\u044f $  \u0130talya $  \u30a4\u30bf\u30ea\u30a2 (Japanese for Italy)"}
+{"id": 142, "content": "Germany $  Denmark $  Netherlands $  Belgium $  Austria $  Switzerland $  Poland $  Luxembourg $  Czech Republic $  France"}
+{"id": 143, "content": "Hungary $  Serbia $  Romania $  Croatia $  Slovakia $  Austria $  Slovenia $  Ukraine $  Poland $  Bosnia and Herzegovina"}
+{"id": 144, "content": "Italy $  Switzerland $  Austria $  Slovenia $  France $  Germany $  Croatia $  Spain $  Portugal $  Greece"}
+{"id": 145, "content": "Nepal $  India $  Pakistan $  Bangladesh $  Bhutan $  Sri Lanka $  Myanmar $  Afghanistan $  Tibet $  China"}
+{"id": 146, "content": "Ethiopia $  Nigeria $  Kenya $  Uganda $  Tanzania $  Ghana $  Cameroon $  Zambia $  Malawi $  Sudan"}
+{"id": 147, "content": "Ireland $  the Republic of Ireland $  Ireland (Republic of) $  Eire $  \u00c9ire $  Northern Ireland $  United Kingdom $  Scotland $  Wales $  England"}
+{"id": 148, "content": "France $  Belgium $  Switzerland $  Canada $  Luxembourg $  Monaco $  Andorra $  Italy $  Spain $  Germany"}
+{"id": 149, "content": "Germany $  Deutschland $  Bundesrepublik Deutschland $  Federal Republic of Germany $  Europe $  Europa $  Bavaria $  Bayern $  Munich $  M\u00fcnchen"}
+{"id": 150, "content": "Lebanon $  Lebanon's $  Republic of Lebanon $  Lebanese $  Lebanon (officially the Republic of Lebanon) $  Lebanon's territory $  Mediterranean $  Middle East (Lebanon) $  Asia (Lebanon) $  The Levant (Lebanon)"}
+{"id": 151, "content": "New Zealand $  Australia $  Canada $  United States $  United Kingdom $  Ireland $  South Africa $  India $  Germany $  France"}
+{"id": 152, "content": "Belgium $  France $  Germany $  Netherlands $  Italy $  Spain $  United Kingdom $  Switzerland $  Austria $  Luxembourg"}
+{"id": 153, "content": "Latvia $  Lithuania $  Estonia $  Poland $  Russia $  Belarus $  Ukraine $  Finland $  Sweden $  Norway"}
+{"id": 154, "content": "Tunisia $  Morocco $  Algeria $  Libya $  Egypt $  Sudan $  Mauritania $  Lebanon $  Jordan $  Syria"}
+{"id": 155, "content": "Poland $  Germany $  Czech Republic $  Slovakia $  Ukraine $  Belarus $  Lithuania $  Austria $  Hungary $  Russia"}
+{"id": 156, "content": "China $  Vietnam $  Malaysia $  Thailand $  Cambodia $  Laos $  Indonesia $  Philippines $  Singapore $  Taiwan"}
+{"id": 157, "content": "India $  Sri Lanka $  Bangladesh $  Pakistan $  Nepal $  Bhutan $  Myanmar $  Maldives $  Indonesia $  Thailand"}
+{"id": 158, "content": "Israel $  Jordan $  Egypt $  Lebanon $  Syria $  Turkey $  Cyprus $  Greece $  Saudi Arabia $  United Arab Emirates"}
+{"id": 159, "content": "Japan $  South Korea $  China $  Taiwan $  Vietnam $  Thailand $  Malaysia $  Philippines $  Singapore $  Indonesia"}
+{"id": 160, "content": "India $  Sri Lanka $  Nepal $  Bangladesh $  Pakistan $  Bhutan $  Maldives $  Myanmar $  Indonesia $  Thailand"}
+{"id": 161, "content": "Croatia $  Serbia $  Bosnia and Herzegovina $  Slovenia $  Montenegro $  North Macedonia $  Slovakia $  Hungary $  Austria $  Czech Republic"}
+{"id": 162, "content": "Italy $  Italia $  Italia $  Italia $  Italia $  Italia $  Italia $  Italia $  Italia $  Italia"}
+{"id": 163, "content": "Iran $  Afghanistan $  Iraq $  Turkey $  Pakistan $  Turkmenistan $  Azerbaijan $  Uzbekistan $  Tajikistan $  Armenia"}
+{"id": 164, "content": "Spain $  Espa\u00f1a $  ES $  Europe $  EU $  Iberian Peninsula $  Mediterranean Coast $  Western Europe $  Catalonia $  Valencian Community"}
+{"id": 165, "content": "Australia $  New Zealand $  Canada $  United States $  United Kingdom $  South Africa $  Ireland $  India $  Malaysia $  Papua New Guinea"}
+{"id": 166, "content": "Estonia $  Finland $  Latvia $  Lithuania $  Sweden $  Norway $  Russia $  Poland $  Denmark $  Germany"}
+{"id": 167, "content": "Germany $  Sweden $  Australia $  Canada $  New Zealand $  United Kingdom $  France $  Norway $  Switzerland $  Denmark"}
+{"id": 168, "content": "India $  Bangladesh $  Nepal $  Bhutan $  Pakistan $  Sri Lanka $  Myanmar $  Maldives $  Thailand $  Indonesia"}
+{"id": 169, "content": "Singapore $  Malaysia $  China $  Taiwan $  South Korea $  Japan $  Thailand $  Indonesia $  Vietnam $  Philippines"}
+{"id": 170, "content": "Indonesia $  Malaysia $  Philippines $  Thailand $  Brunei $  Vietnam $  Singapore $  Myanmar $  Cambodia $  Laos"}
+{"id": 171, "content": "Brazil $  Mexico $  Colombia $  Peru $  Argentina $  Chile $  Venezuela $  Bolivia $  Ecuador $  Guatemala"}
+{"id": 172, "content": "Cyprus $  Greece $  Turkey $  Italy $  Egypt $  Lebanon $  Syria $  Israel $  Jordan $  Tunisia"}
+{"id": 173, "content": "France $  Belgium $  Canada $  Switzerland $  Luxembourg $  Morocco $  Algeria $  Tunisia $  Mali $  Monaco"}
+{"id": 174, "content": "Latvia $  Lithuania $  Estonia $  Russia $  Belarus $  Poland $  Finland $  Sweden $  Denmark $  Germany"}
+{"id": 175, "content": "Germany $  Netherlands $  Austria $  Switzerland $  Belgium $  Denmark $  Luxembourg $  France $  Poland $  Czech Republic $  Germany"}
+{"id": 176, "content": "USA $  United States $  United States of America $  Canada $  Australia $  United Kingdom $  UK $  France $  Germany $  India"}
+{"id": 177, "content": "Albania $  Kosovo $  North Macedonia $  Serbia $  Montenegro $  Greece $  Bosnia and Herzegovina $  Croatia $  Slovenia $  Bulgaria"}
+{"id": 178, "content": "Indonesia $  Malaysia $  Philippines $  Thailand $  Vietnam $  Brunei $  East Timor $  Papua New Guinea $  Singapore $  Myanmar"}
+{"id": 179, "content": "Sri Lanka $  India $  Bangladesh $  Nepal $  Pakistan $  Bhutan $  Maldives $  Myanmar $  Indonesia $  Thailand"}
+{"id": 180, "content": "India $  China $  Pakistan $  Bangladesh $  Nepal $  Sri Lanka $  Myanmar $  Bhutan $  Indonesia $  Malaysia"}
+{"id": 181, "content": "New Zealand $  England $  Australia $  Canada $  United States $  South Africa $  Germany $  Scotland $  France $  Ireland"}
+{"id": 182, "content": "Brazil $  Indonesia $  Papua New Guinea $  Mexico $  India $  Nigeria $  Peru $  Ecuador $  Colombia $  Venezuela"}
+{"id": 183, "content": "Nigeria $  Ghana $  Cameroon $  Benin $  Togo $  Ivory Coast $  Chad $  Niger $  Mali $  Liberia"}
+{"id": 184, "content": "Spain $  Mexico $  Argentina $  Italy $  Colombia $  Peru $  Chile $  France $  Portugal $  Venezuela"}
+{"id": 185, "content": "Iran $  Iraq $  Afghanistan $  Pakistan $  Turkey $  Syria $  Tajikistan $  Azerbaijan $  Uzbekistan $  Turkmenistan"}
+{"id": 186, "content": "Ivory Coast $  Guinea $  Mali $  Burkina Faso $  Senegal $  Liberia $  Sierra Leone $  Ghana $  Togo $  Benin"}
+{"id": 187, "content": "Uzbekistan $  Kazakhstan $  Russia $  Azerbaijan $  Kyrgyzstan $  Tajikistan $  Turkey $  Turkmenistan $  Armenia $  Iran"}
+{"id": 188, "content": "Oman $  Tanzania $  Zanzibar $  Yemen $  Kenya $  Saudi Arabia $  Somalia $  United Arab Emirates $  Mozambique $  Comoros"}
+{"id": 189, "content": "Romania $  Hungary $  Bulgaria $  Serbia $  Ukraine $  Moldova $  Austria $  Slovakia $  Poland $  Czech Republic"}
+{"id": 190, "content": "Philippines $  The Philippines $  Republic of the Philippines $  PH $  Southeast Asia $  Pilipinas $  Luzon $  Philippine Islands $  Manila $  Visayas"}
+{"id": 191, "content": "Philippines $  the Philippines $  Philippine Islands $  Republic of the Philippines $  Southeast Asia $  Asia $  East Indies $  Pacific $  ASEAN $  Luzon"}
+{"id": 192, "content": "United States $  Canada $  United Kingdom $  Australia $  New Zealand $  Germany $  France $  Spain $  Italy $  Netherlands"}
+{"id": 193, "content": "Belize $  Argentina $  Costa Rica $  Honduras $  Mexico $  Dominican Republic $  Nicaragua $  Guatemala $  Panama $  Chile"}
+{"id": 194, "content": "France $  Spain $  Belgium $  Switzerland $  Italy $  Germany $  Luxembourg $  Portugal $  Netherlands $  Monaco"}
+{"id": 195, "content": "Mexico $  United States $  Argentina $  Spain $  Colombia $  Venezuela $  Chile $  Peru $  Brazil $  Guatemala"}
+{"id": 196, "content": "France $  Belgium $  Switzerland $  Canada $  Luxembourg $  Monaco $  Andorra $  Haiti $  Senegal $  Madagascar"}
+{"id": 197, "content": "South Africa $  Namibia $  Zimbabwe $  Botswana $  Eswatini $  Lesotho $  Zambia $  Angola $  Mozambique $  Malawi"}
+{"id": 198, "content": "Austria $  Germany $  Switzerland $  Italy $  France $  Liechtenstein $  Czech Republic $  Hungary $  Slovenia $  Slovakia"}
+{"id": 199, "content": "Madagascar $  Mozambique $  Tanzania $  Comoros $  Mauritius $  Australia $  South Africa $  Indonesia $  Kenya $  India"}
+{"id": 200, "content": "Azerbaijan $  Turkey $  Turkmenistan $  Uzbekistan $  Kazakhstan $  Kyrgyzstan $  Iran $  Armenia $  Georgia $  Russia"}
+{"id": 201, "content": "Brazil $  Brasil $  BR $  Federative Republic of Brazil $  Rep\u00fablica Federativa do Brasil $  South America $  Latin America $  Country of Brazil $  Brazilian $  Portuguese-speaking country"}
+{"id": 202, "content": "Moldova $  Romania $  Ukraine $  Russia $  Belarus $  Bulgaria $  Georgia $  Armenia $  Kazakhstan $  Uzbekistan"}
+{"id": 203, "content": "United States $  United Kingdom $  Canada $  Australia $  France $  Germany $  Italy $  Spain $  Netherlands $  Japan"}
+{"id": 204, "content": "Iraq $  Indonesia $  Nigeria $  Turkey $  Ethiopia $  Iran $  India $  Kenya $  Pakistan $  Bangladesh"}
+{"id": 205, "content": "India $  Pakistan $  Bangladesh $  Nepal $  Sri Lanka $  Bhutan $  Afghanistan $  Myanmar $  Maldives $  Iran"}
+{"id": 206, "content": "Bulgaria $  Serbia $  North Macedonia $  Romania $  Greece $  Albania $  Bosnia and Herzegovina $  Montenegro $  Croatia $  Slovenia"}
+{"id": 207, "content": "Mexico $  Guatemala $  El Salvador $  Honduras $  Nicaragua $  Costa Rica $  Panama $  Colombia $  Venezuela $  Ecuador"}
+{"id": 208, "content": "Nigeria $  Poland $  India $  Kenya $  Indonesia $  South Africa $  Brazil $  Australia $  Canada $  United States"}
+{"id": 209, "content": "Switzerland $  Austria $  Germany $  Liechtenstein $  Italy $  France $  Slovenia $  Czech Republic $  Slovakia $  Poland"}
+{"id": 210, "content": "India $  Bangladesh $  Nepal $  Sri Lanka $  Myanmar $  Bhutan $  Pakistan $  Maldives $  Thailand $  Malaysia"}
+{"id": 211, "content": "Germany $  Deutschland $  Bavaria $  Bayern $  Europe $  Western Europe $  Deutscheland $  Central Europe $  German Confederation $  European Union"}
+{"id": 212, "content": "France $  Spain $  Switzerland $  Belgium $  Canada $  Luxembourg $  Germany $  Italy $  United Kingdom $  Netherlands"}
+{"id": 213, "content": "Germany $  United States $  France $  United Kingdom $  Italy $  Spain $  Netherlands $  Belgium $  Poland $  Czech Republic"}
+{"id": 214, "content": "India $  Sri Lanka $  Nepal $  Pakistan $  China $  Bangladesh $  Bhutan $  Myanmar $  Thailand $  Indonesia"}
+{"id": 215, "content": "Czech Republic $  Slovakia $  Poland $  Hungary $  Austria $  Germany $  Slovenia $  Croatia $  Serbia $  Ukraine"}
+{"id": 216, "content": "France $  Canada $  Belgium $  Switzerland $  Luxembourg $  United States $  Germany $  United Kingdom $  Netherlands $  Italy"}
+{"id": 217, "content": "Chile $  Mexico $  Colombia $  Spain $  Argentina $  Peru $  Guatemala $  Ecuador $  Bolivia $  Uruguay"}
+{"id": 218, "content": "India $  Pakistan $  Iran $  Afghanistan $  Bangladesh $  Nepal $  Sri Lanka $  Turkey $  Iraq $  Uzbekistan"}
+{"id": 219, "content": "Germany $  Deutschland $  the Federal Republic of Germany $  Germany in Europe $  Western Germany $  North Rhine-Westphalia $  in D\u00fcsseldorf $  the country of Germany $  Federal Germany $  the Republic of Germany"}
+{"id": 220, "content": "Tanzania $  United States $  United Kingdom $  Canada $  Australia $  India $  South Africa $  Nigeria $  Kenya $  Malaysia"}
+{"id": 221, "content": "France $  Belgium $  Luxembourg $  Switzerland $  Canada $  United States $  Germany $  United Kingdom $  Netherlands $  Italy"}
+{"id": 222, "content": "Slovenia $  Croatia $  Austria $  Hungary $  Italy $  Czech Republic $  Slovakia $  Bosnia and Herzegovina $  Serbia $  Germany"}
+{"id": 223, "content": "Portugal $  United Kingdom $  Spain $  France $  Italy $  Norway $  Ireland $  Netherlands $  Belgium $  Germany"}
+{"id": 224, "content": "Uzbekistan $  Kazakhstan $  Kyrgyzstan $  Tajikistan $  Turkmenistan $  Azerbaijan $  Armenia $  Georgia $  Russia $  Ukraine"}
+{"id": 225, "content": "Germany $  Austria $  Switzerland $  Poland $  Netherlands $  Belgium $  France $  Denmark $  Luxembourg $  Liechtenstein"}
+{"id": 226, "content": "Iran $  Afghanistan $  Pakistan $  Turkey $  Iraq $  Syria $  Uzbekistan $  Azerbaijan $  Turkmenistan $  Tajikistan"}
+{"id": 227, "content": "Paraguay $  Argentina $  Brazil $  Uruguay $  Bolivia $  Chile $  Peru $  Ecuador $  Colombia $  Venezuela"}
+{"id": 228, "content": "France $  French Polynesia $  Tahiti $  Wallis and Futuna $  New Caledonia $  Cook Islands $  Fiji $  Samoa $  Tonga $  Vanuatu"}
+{"id": 229, "content": "Singapore $  Malaysia $  Indonesia $  Thailand $  Philippines $  Vietnam $  Brunei $  Laos $  Cambodia $  Myanmar"}
+{"id": 230, "content": "Iran $  Iraq $  Turkey $  Afghanistan $  Pakistan $  Syria $  Yemen $  Saudi Arabia $  Jordan $  Lebanon"}
+{"id": 231, "content": "Saudi Arabia $  Saudi $  the Kingdom of Saudi Arabia $  Arabia $  Kingdom of Saudi Arabia $  KSA $  Middle East $  the Arabian Peninsula $  Riyadh $  Arabian Kingdom"}
+{"id": 232, "content": "Taiwan $  China $  Vietnam $  Indonesia $  Malaysia $  Philippines $  Thailand $  South Korea $  Japan $  Singapore"}
+{"id": 233, "content": "Canada $  United States $  Australia $  United Kingdom $  New Zealand $  South Africa $  Ireland $  India $  Germany $  France"}
+{"id": 234, "content": "India $  Pakistan $  Bangladesh $  Nepal $  Sri Lanka $  Bhutan $  Maldives $  Afghanistan $  Myanmar $  Indonesia"}
+{"id": 235, "content": "Israel $  Palestine $  Jordan $  Lebanon $  Syria $  Egypt $  Turkey $  Saudi Arabia $  Iraq $  Cyprus"}
+{"id": 236, "content": "France $  Italy $  Germany $  Spain $  Switzerland $  Belgium $  Austria $  Netherlands $  United Kingdom $  Portugal"}
+{"id": 237, "content": "Greece $  Ukraine $  Russia $  Macedonia (North Macedonia) $  Romania $  Serbia $  Bulgaria $  Albania $  Moldova $  Belarus"}
+{"id": 238, "content": "South Sudan $  Sudan $  Ethiopia $  Uganda $  Kenya $  Central African Republic $  Democratic Republic of the Congo $  Chad $  Tanzania $  Rwanda"}
+{"id": 239, "content": "United Kingdom $  Nigeria $  United States $  Canada $  Germany $  France $  Italy $  Spain $  South Africa $  Australia"}
+{"id": 240, "content": "Ireland $  Canada $  United States $  United Kingdom $  Australia $  New Zealand $  South Africa $  Canada $  United States $  Italy"}
+{"id": 241, "content": "India $  Nepal $  Bangladesh $  Pakistan $  Sri Lanka $  Bhutan $  Myanmar $  Afghanistan $  Maldives $  China"}
+{"id": 242, "content": "Albania $  Turkey $  Kosovo $  Macedonia $  Greece $  Serbia $  Montenegro $  Bosnia and Herzegovina $  Croatia $  Bulgaria"}
+{"id": 243, "content": "Iceland $  Norway $  Sweden $  Denmark $  Finland $  Greenland $  Faroe Islands $  Canada $  United Kingdom $  Russia"}
+{"id": 244, "content": "Austria $  Germany $  Hungary $  Switzerland $  Slovakia $  Slovenia $  Czech Republic $  Poland $  Liechtenstein $  Italy"}
+{"id": 245, "content": "United States $  Canada $  United Kingdom $  Australia $  Germany $  France $  New Zealand $  Netherlands $  Sweden $  Belgium"}
+{"id": 246, "content": "Tonga $  Fiji $  Samoa $  Vanuatu $  New Zealand $  Australia $  Papua New Guinea $  Solomon Islands $  Niue $  Tuvalu"}
+{"id": 247, "content": "Indonesia $  Malaysia $  Pakistan $  Bangladesh $  India $  Saudi Arabia $  Egypt $  Nigeria $  Turkey $  Morocco"}
+{"id": 248, "content": "Azerbaijan $  Turkey $  Iran $  Uzbekistan $  Kazakhstan $  Turkmenistan $  Tajikistan $  Kyrgyzstan $  Russia $  Afghanistan"}
+{"id": 249, "content": "Malaysia $  Indonesia $  Singapore $  Brunei $  Thailand $  Philippines $  Vietnam $  Myanmar $  Cambodia $  Laos"}
+{"id": 250, "content": "Germany $  Austria $  Switzerland $  Czech Republic $  Poland $  Netherlands $  Belgium $  France $  Italy $  Luxembourg"}
+{"id": 251, "content": "France $  Spain $  Italy $  Switzerland $  Belgium $  Germany $  Portugal $  Andorra $  Netherlands $  Luxembourg"}
+{"id": 252, "content": "Nepal $  Italy $  India $  Canada $  China $  Australia $  Switzerland $  United States $  New Zealand $  Argentina"}
+{"id": 253, "content": "Vietnam $  China $  Laos $  Cambodia $  Thailand $  Malaysia $  Myanmar $  Indonesia $  Philippines $  Singapore"}
+{"id": 254, "content": "Spain $  Mexico $  Colombia $  Argentina $  Guatemala $  Chile $  Peru $  Ecuador $  Venezuela $  Bolivia"}
+{"id": 255, "content": "Croatia $  Slovenia $  Serbia $  Bosnia and Herzegovina $  Montenegro $  Macedonia $  Albania $  Hungary $  Austria $  Italy"}
+{"id": 256, "content": "Italy $  Spain $  Portugal $  Mexico $  Argentina $  Brazil $  Chile $  Colombia $  Peru $  Venezuela"}
+{"id": 257, "content": "Slovakia $  Czech Republic $  Hungary $  Poland $  Austria $  Germany $  Slovenia $  Croatia $  Ukraine $  Serbia"}
+{"id": 258, "content": "Iran $  Turkey $  Iraq $  Afghanistan $  Pakistan $  Syria $  Lebanon $  Jordan $  Azerbaijan $  Armenia"}
+{"id": 259, "content": "Kenya $  Nigeria $  Uganda $  Tanzania $  Zambia $  Malawi $  Zimbabwe $  Ghana $  Ethiopia $  South Africa"}
+{"id": 260, "content": "Romania $  Bulgaria $  Hungary $  Serbia $  Ukraine $  Moldova $  Greece $  Turkey $  Germany $  Italy"}
+{"id": 261, "content": "France $  Canada $  Switzerland $  Belgium $  United States $  Australia $  United Kingdom $  New Zealand $  Luxembourg $  Monaco"}
+{"id": 262, "content": "Russia $  Ukraine $  Belarus $  Kazakhstan $  Moldova $  Uzbekistan $  Kyrgyzstan $  Tajikistan $  Armenia $  Azerbaijan"}
+{"id": 263, "content": "France $  Germany $  Belgium $  Luxembourg $  Switzerland $  Netherlands $  Austria $  Italy $  Spain $  Portugal"}
+{"id": 264, "content": "Ireland $  Northern Ireland $  United Kingdom $  Scotland $  Wales $  England $  France $  Germany $  Netherlands $  Belgium"}
+{"id": 265, "content": "Saudi Arabia $  Yemen $  United Arab Emirates $  Oman $  Qatar $  Kuwait $  Bahrain $  Iraq $  Jordan $  Lebanon"}
+{"id": 266, "content": "Japan $  China $  South Korea $  Taiwan $  Vietnam $  Philippines $  Indonesia $  Thailand $  Malaysia $  Singapore"}
+{"id": 267, "content": "Japan $  South Korea $  China $  Russia $  North Korea $  Taiwan $  Philippines $  Vietnam $  Malaysia $  Indonesia"}
+{"id": 268, "content": "Algeria $  Morocco $  Tunisia $  Libya $  Mauritania $  Egypt $  Saudi Arabia $  Sudan $  Lebanon $  Syria"}
+{"id": 269, "content": "Indonesia $  Malaysia $  Singapore $  Brunei $  Thailand $  Vietnam $  Myanmar $  Philippines $  Cambodia $  Laos"}
+{"id": 270, "content": "Italy $  France $  Spain $  Germany $  Switzerland $  Portugal $  Belgium $  Austria $  Netherlands $  Greece"}
+{"id": 271, "content": "Tanzania $  Kenya $  Uganda $  Rwanda $  Burundi $  South Sudan $  Ethiopia $  Somalia $  Zambia $  Malawi"}
+{"id": 272, "content": "C\u00f4te d'Ivoire $  Ivory Coast $  Republic of C\u00f4te d'Ivoire $  West Africa $  Ghana $  Burkina Faso $  Guinea $  Mali $  Liberia $  Sierra Leone"}
+{"id": 273, "content": "Lebanon $  Lebanon $  Lebanon $  Lebanon $  Lebanon $  Lebanon $  Lebanon $  Lebanon $  Lebanon $  Lebanon"}
+{"id": 274, "content": "Ukraine $  Russia $  Poland $  Belarus $  Lithuania $  Moldova $  Latvia $  Estonia $  Slovakia $  Hungary"}
+{"id": 275, "content": "Kenya $  Uganda $  Tanzania $  Rwanda $  Burundi $  Somalia $  Ethiopia $  South Sudan $  Democratic Republic of the Congo $  Sudan"}
+{"id": 276, "content": "Ukraine $  Russia $  Belarus $  Poland $  Czech Republic $  Slovakia $  Moldova $  Romania $  Hungary $  Lithuania"}
+{"id": 277, "content": "Sweden $  Denmark $  Germany $  Norway $  Finland $  Poland $  Netherlands $  Lithuania $  Estonia $  Russia"}
+{"id": 278, "content": "Malaysia $  Brunei $  Indonesia $  Philippines $  Thailand $  Singapore $  Vietnam $  Myanmar $  Laos $  Cambodia"}
+{"id": 279, "content": "Armenia $  Azerbaijan $  Turkey $  Iran $  Kazakhstan $  Georgia $  Russia $  Uzbekistan $  Tajikistan $  Kyrgyzstan"}
+{"id": 280, "content": "France $  the United States $  Canada $  Germany $  Italy $  Spain $  the United Kingdom $  Belgium $  Switzerland $  Netherlands"}
+{"id": 281, "content": "Saudi Arabia $  United Arab Emirates $  Oman $  Kuwait $  Qatar $  Bahrain $  Jordan $  Yemen $  Iraq $  Egypt"}
+{"id": 282, "content": "Suriname $  Guyana $  Brazil $  Venezuela $  Colombia $  French Guiana $  Trinidad and Tobago $  Peru $  Ecuador $  Bolivia"}
+{"id": 283, "content": "India $  Republic of India $  Bharat $  South Asia $  India $  India (Bharat) $  Hindustan $  Indian Republic $  Subcontinent of India $  India"}
+{"id": 284, "content": "India $  Nepal $  Sri Lanka $  Bangladesh $  Pakistan $  Bhutan $  Myanmar $  Maldives $  Indonesia $  Thailand"}
+{"id": 285, "content": "France $  Belgium $  Switzerland $  Canada $  Luxembourg $  Monaco $  Algeria $  Tunisia $  Morocco $  Madagascar"}
+{"id": 286, "content": "Lithuania $  Latvia $  Estonia $  Poland $  Belarus $  Russia $  Sweden $  Finland $  Denmark $  Germany"}
+{"id": 287, "content": "Germany $  Austria $  Switzerland $  Poland $  Czech Republic $  Hungary $  Netherlands $  Belgium $  Denmark $  Luxembourg"}
+{"id": 288, "content": "Chile $  Paraguay $  Mexico $  Colombia $  Philippines $  Peru $  Argentina $  Spain $  Bolivia $  Venezuela"}
+{"id": 289, "content": "Czech Republic $  Slovakia $  Croatia $  Slovenia $  Serbia $  Bosnia and Herzegovina $  Poland $  Hungary $  Montenegro $  North Macedonia"}
+{"id": 290, "content": "Iran $  Pakistan $  Afghanistan $  Iraq $  Turkey $  Syria $  Azerbaijan $  Turkmenistan $  Tajikistan $  Uzbekistan"}
+{"id": 291, "content": "Iran $  Afghanistan $  Pakistan $  Iraq $  Turkey $  India $  Azerbaijan $  Armenia $  Tajikistan $  Turkmenistan"}
+{"id": 292, "content": "Greece $  Italy $  Spain $  France $  Germany $  Russia $  Bulgaria $  Romania $  Hungary $  Turkey"}
+{"id": 293, "content": "France $  Monaco $  Belgium $  Switzerland $  Luxembourg $  Canada $  Brazil $  Italy $  Spain $  Germany"}
+{"id": 294, "content": "Bangladesh $  India $  Pakistan $  Nepal $  Sri Lanka $  Myanmar $  Bhutan $  Afghanistan $  Thailand $  Indonesia"}
+{"id": 295, "content": "United Kingdom $  Ireland $  Australia $  New Zealand $  Canada $  South Africa $  India $  Nigeria $  Jamaica $  Malaysia"}
+{"id": 296, "content": "Germany $  Austria $  Switzerland $  Liechtenstein $  Luxembourg $  France $  Netherlands $  Belgium $  Denmark $  Czech Republic"}
+{"id": 297, "content": "Malaysia $  Indonesia $  Thailand $  Singapore $  Philippines $  Vietnam $  Cambodia $  Laos $  Myanmar $  Brunei"}
+{"id": 298, "content": "Japan $  Nihon $  Nippon $  the Japanese Archipelago $  East Asia $  Asia $  the Land of the Rising Sun $  Japon $  Jepun $  the island nation of Japan"}
+{"id": 299, "content": "Estonia $  Latvia $  Finland $  Lithuania $  Russia $  Sweden $  Norway $  Poland $  Belarus $  Ukraine"}
+{"id": 300, "content": "Australia $  New Zealand $  England $  India $  South Africa $  Sri Lanka $  West Indies $  Pakistan $  Bangladesh $  Zimbabwe"}
