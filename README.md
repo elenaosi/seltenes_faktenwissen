@@ -9,6 +9,7 @@ Unsere Methodik umfasst eine Korrelations- und Leistungsanalyse. Um zwischen sel
 ## Anforderungen
 - Python 3.9
 - pip 24.2
+- Ollama Software herunterladen (steht unter https://ollama.com zur Verfügung)
 ```
 pip install -r requirements.txt
 ```
@@ -32,7 +33,10 @@ python3 calculate_freq.py
 > Die bereits berechnete Häufigkeiten für jede relationale Beziehung sind unter folgendem Pfad verfügbar: ``` ./datasets/fakt_data_freq ```
 
 
-- Prompting von Llama 3.1 und Mistral 0.3 mit Ollama (beachten Sie die Hinweise in den Kommentaren im Code). 
+- Prompting von Llama 3.1 und Mistral 0.3 mit Ollama (beachten Sie die Hinweise in den Kommentaren im Code).
+```
+Ollama Software lokal einschalten
+```
 ```
 python3 prompt_response_generator.py
 ```
@@ -47,6 +51,9 @@ python3 prompt_response_generator.py
 
 - Prompting von GPT-4o per Batch-API (beachten Sie die Hinweise in den Kommentaren im Code).
 ```
+export OPENAI_API_KEY="dein_API_KEY“
+```
+```
 python3 gpt_prompt_per_batch.py
 ```
 > Fertige Prompts für GPT-4o sind unter folgendem Pfad verfügbar: ``` ./prompts/prompts_for_gtp_per_batches ```
@@ -54,9 +61,14 @@ python3 gpt_prompt_per_batch.py
 > Erhaltene Antworten auf Prompts sind unter folgendem Pfad verfügbar: ``` ./prompting_result/gpt_result ```
 
 
-- Evaluation der erhaltenen Daten durch Berechnung verschiedener Metriken (beachten Sie die Hinweise in den Kommentaren im Code).
+- Evaluation der erhaltenen Daten durch Berechnung verschiedener Metriken.
+  >Mögliche Varianten des Modellnamens:
+  >
+  >gpt / llama / mistral (um Ergebnisse für alle relationalen Beziehungen einzeln zu erhalten) 
+  
+  >all_gpt / all_llama / all_mistral (um Ergebnisse für alle relationalen Beziehungen zusammen zu erhalten)
 ```
-python3 metriks.py
+python3 metriks.py <model_name>
 ```
 > Bereits berechnete Ergebnisse sind über die folgenden Pfade verfügbar:
 > 
