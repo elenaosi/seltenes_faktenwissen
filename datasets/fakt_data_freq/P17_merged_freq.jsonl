@@ -1,0 +1,300 @@
+{"id": 1, "sub_label": "Boronia", "obj_label": ["Australia"], "freq": 245}
+{"id": 2, "sub_label": "Yame", "obj_label": ["Japan"], "freq": 147}
+{"id": 3, "sub_label": "Mountjoy Prison", "obj_label": ["Ireland"], "freq": 10}
+{"id": 4, "sub_label": "Fourmies", "obj_label": ["France"], "freq": 83}
+{"id": 5, "sub_label": "Honorary C\u00e9sar", "obj_label": ["France"], "freq": 6}
+{"id": 6, "sub_label": "Badigeru Swamp", "obj_label": ["South Sudan"], "freq": 2}
+{"id": 7, "sub_label": "Llajua", "obj_label": ["Bolivia"], "freq": 0}
+{"id": 8, "sub_label": "Unity", "obj_label": ["South Sudan"], "freq": 210}
+{"id": 9, "sub_label": "Louise", "obj_label": ["Canada"], "freq": 333}
+{"id": 10, "sub_label": "Kazan International Airport", "obj_label": ["Russia"], "freq": 1}
+{"id": 11, "sub_label": "Torfinnsvatnet", "obj_label": ["Norway"], "freq": 0}
+{"id": 12, "sub_label": "Techfest", "obj_label": ["India"], "freq": 2}
+{"id": 13, "sub_label": "Lampeia", "obj_label": ["Greece"], "freq": 0}
+{"id": 14, "sub_label": "Big Lakes County", "obj_label": ["Canada"], "freq": 5}
+{"id": 15, "sub_label": "Qantas Founders Outback Museum", "obj_label": ["Australia"], "freq": 4}
+{"id": 16, "sub_label": "Kiasarlat", "obj_label": ["Iran"], "freq": 2}
+{"id": 17, "sub_label": "Leirv\u00edk", "obj_label": ["Faroe Islands"], "freq": 3}
+{"id": 18, "sub_label": "Bongil Bongil National Park", "obj_label": ["Australia"], "freq": 1}
+{"id": 19, "sub_label": "PhonepayPlus", "obj_label": ["United Kingdom"], "freq": 3}
+{"id": 20, "sub_label": "Kokborok", "obj_label": ["India"], "freq": 70}
+{"id": 21, "sub_label": "Volodarka", "obj_label": ["Ukraine"], "freq": 11}
+{"id": 22, "sub_label": "Ragay Gulf", "obj_label": ["Philippines"], "freq": 5}
+{"id": 23, "sub_label": "Alpamayo", "obj_label": ["Peru"], "freq": 9}
+{"id": 24, "sub_label": "All Parties Democratic Movement", "obj_label": ["Pakistan"], "freq": 3}
+{"id": 25, "sub_label": "Knittelsheim", "obj_label": ["Germany"], "freq": 1}
+{"id": 26, "sub_label": "Maraussan", "obj_label": ["France"], "freq": 1}
+{"id": 27, "sub_label": "Saponara", "obj_label": ["Italy"], "freq": 8}
+{"id": 28, "sub_label": "Bahlingen am Kaiserstuhl", "obj_label": ["Germany"], "freq": 2}
+{"id": 29, "sub_label": "Sanjwal railway station", "obj_label": ["Pakistan"], "freq": 1}
+{"id": 30, "sub_label": "Botunja", "obj_label": ["Serbia"], "freq": 2}
+{"id": 31, "sub_label": "\u00dczd\u0259noba", "obj_label": ["Azerbaijan"], "freq": 1}
+{"id": 32, "sub_label": "Escalaplano", "obj_label": ["Italy"], "freq": 1}
+{"id": 33, "sub_label": "trading of East German political prisoners", "obj_label": ["West Germany"], "freq": 0}
+{"id": 34, "sub_label": "Visaltia Municipality", "obj_label": ["Greece"], "freq": 2}
+{"id": 35, "sub_label": "Kopa Bukowska", "obj_label": ["Poland"], "freq": 1}
+{"id": 36, "sub_label": "Espinaredo", "obj_label": ["Spain"], "freq": 1}
+{"id": 37, "sub_label": "Stadio Tre Fontane", "obj_label": ["Italy"], "freq": 1}
+{"id": 38, "sub_label": "European Educational Research Association", "obj_label": ["Germany"], "freq": 0}
+{"id": 39, "sub_label": "Koreh Soni Rural District", "obj_label": ["Iran"], "freq": 23}
+{"id": 40, "sub_label": "Mainroth station", "obj_label": ["Germany"], "freq": 1}
+{"id": 41, "sub_label": "Institute for Environmental Solutions", "obj_label": ["Latvia"], "freq": 2}
+{"id": 42, "sub_label": "Garmsar", "obj_label": ["Iran"], "freq": 132}
+{"id": 43, "sub_label": "2021 European Junior Mixed Team Judo Championships", "obj_label": ["Luxembourg"], "freq": 1}
+{"id": 44, "sub_label": "Dinami", "obj_label": ["Italy"], "freq": 23}
+{"id": 45, "sub_label": "Kr\u00e1\u013eova Lehota", "obj_label": ["Slovakia"], "freq": 6}
+{"id": 46, "sub_label": "Namyanggukkyong Line", "obj_label": ["North Korea"], "freq": 0}
+{"id": 47, "sub_label": "Jupar", "obj_label": ["Iran"], "freq": 4}
+{"id": 48, "sub_label": "1958 World Judo Championships", "obj_label": ["Japan"], "freq": 1}
+{"id": 49, "sub_label": "Koxinga Ancestral Shrine", "obj_label": ["Taiwan"], "freq": 8}
+{"id": 50, "sub_label": "Zgo\u0161\u0107a", "obj_label": ["Bosnia and Herzegovina"], "freq": 3}
+{"id": 51, "sub_label": "The Broads", "obj_label": ["United Kingdom"], "freq": 17}
+{"id": 52, "sub_label": "\u00d8IF Arendal", "obj_label": ["Norway"], "freq": 1}
+{"id": 53, "sub_label": "SIAI-Marchetti", "obj_label": ["Italy"], "freq": 12}
+{"id": 54, "sub_label": "Slovak Karst National Park", "obj_label": ["Slovakia"], "freq": 5}
+{"id": 55, "sub_label": "Xivry-Circourt", "obj_label": ["France"], "freq": 1}
+{"id": 56, "sub_label": "Akaki Castle", "obj_label": ["Cyprus"], "freq": 1}
+{"id": 57, "sub_label": "Aspach-Michelbach", "obj_label": ["France"], "freq": 1}
+{"id": 58, "sub_label": "Paris metropolitan area", "obj_label": ["France"], "freq": 102}
+{"id": 59, "sub_label": "Rzesz\u00f3w-Jasionka Airport", "obj_label": ["Poland"], "freq": 4}
+{"id": 60, "sub_label": "Western Palatinate", "obj_label": ["Germany"], "freq": 15}
+{"id": 61, "sub_label": "Do Ab-e Kojur", "obj_label": ["Iran"], "freq": 2}
+{"id": 62, "sub_label": "Gazarkhani-ye Seyyedabad", "obj_label": ["Iran"], "freq": 1}
+{"id": 63, "sub_label": "Batu Arang", "obj_label": ["Malaysia"], "freq": 14}
+{"id": 64, "sub_label": "Royal Moroccan Armed Forces", "obj_label": ["Morocco"], "freq": 6}
+{"id": 65, "sub_label": "Chinagantyada", "obj_label": ["India"], "freq": 2}
+{"id": 66, "sub_label": "S\u00e3o Jorge do Patroc\u00ednio", "obj_label": ["Brazil"], "freq": 1}
+{"id": 67, "sub_label": "Palm Bus", "obj_label": ["France"], "freq": 2}
+{"id": 68, "sub_label": "Sundarbans National Park", "obj_label": ["India"], "freq": 10}
+{"id": 69, "sub_label": "Vallarg\u00e4rdet", "obj_label": ["Sweden"], "freq": 1}
+{"id": 70, "sub_label": "Christie's", "obj_label": ["United Kingdom"], "freq": 34}
+{"id": 71, "sub_label": "Garlasco", "obj_label": ["Italy"], "freq": 2}
+{"id": 72, "sub_label": "T\u00f3rshavn", "obj_label": ["Faroe Islands"], "freq": 404}
+{"id": 73, "sub_label": "Dalrymple-Hay Nature Reserve", "obj_label": ["Australia"], "freq": 1}
+{"id": 74, "sub_label": "Hof van Cleve", "obj_label": ["Belgium"], "freq": 3}
+{"id": 75, "sub_label": "Ulcot", "obj_label": ["France"], "freq": 2}
+{"id": 76, "sub_label": "Simei MRT station", "obj_label": ["Singapore"], "freq": 3}
+{"id": 77, "sub_label": "ANO Glyfada", "obj_label": ["Greece"], "freq": 6}
+{"id": 78, "sub_label": "Homaabad-e Olya", "obj_label": ["Iran"], "freq": 2}
+{"id": 79, "sub_label": "Chondoist Chongu Party", "obj_label": ["North Korea"], "freq": 20}
+{"id": 80, "sub_label": "Bagolino", "obj_label": ["Italy"], "freq": 12}
+{"id": 81, "sub_label": "Long Airfield", "obj_label": ["Australia"], "freq": 4}
+{"id": 82, "sub_label": "Sidi Ghaneme, Essaouira Province", "obj_label": ["Morocco"], "freq": 0}
+{"id": 83, "sub_label": "Barisal Division", "obj_label": ["Bangladesh"], "freq": 659}
+{"id": 84, "sub_label": "Zero rupee note", "obj_label": ["India"], "freq": 8}
+{"id": 85, "sub_label": "Boto\u0161", "obj_label": ["Serbia"], "freq": 8}
+{"id": 86, "sub_label": "Phalsbourg", "obj_label": ["France"], "freq": 58}
+{"id": 87, "sub_label": "La Joyanca", "obj_label": ["Guatemala"], "freq": 4}
+{"id": 88, "sub_label": "Nansen Academy", "obj_label": ["Norway"], "freq": 15}
+{"id": 89, "sub_label": "H\u00e2rtie\u0219ti", "obj_label": ["Romania"], "freq": 5}
+{"id": 90, "sub_label": "Tochovice", "obj_label": ["Czech Republic"], "freq": 6}
+{"id": 91, "sub_label": "Hiran River", "obj_label": ["India"], "freq": 2}
+{"id": 92, "sub_label": "Durgada", "obj_label": ["India"], "freq": 36}
+{"id": 93, "sub_label": "Papra\u0107a Monastery", "obj_label": ["Bosnia and Herzegovina"], "freq": 4}
+{"id": 94, "sub_label": "Gahvareh District", "obj_label": ["Iran"], "freq": 111}
+{"id": 95, "sub_label": "Koubewel Koundia", "obj_label": ["Mali"], "freq": 1}
+{"id": 96, "sub_label": "Akhjar", "obj_label": ["Afghanistan"], "freq": 2}
+{"id": 97, "sub_label": "Kuwadzana", "obj_label": ["Zimbabwe"], "freq": 8}
+{"id": 98, "sub_label": "Joursac", "obj_label": ["France"], "freq": 1}
+{"id": 99, "sub_label": "SMK Yaacob Latiff", "obj_label": ["Malaysia"], "freq": 2}
+{"id": 100, "sub_label": "\u0160pionica Srednja", "obj_label": ["Bosnia and Herzegovina"], "freq": 2}
+{"id": 101, "sub_label": "Chalk Group", "obj_label": ["Netherlands"], "freq": 1}
+{"id": 102, "sub_label": "Par Kola", "obj_label": ["Iran"], "freq": 2}
+{"id": 103, "sub_label": "Sherubtse College", "obj_label": ["Bhutan"], "freq": 35}
+{"id": 104, "sub_label": "Chasseneuil-sur-Bonnieure", "obj_label": ["France"], "freq": 2}
+{"id": 105, "sub_label": "Platja S'Estanyol", "obj_label": ["Spain"], "freq": 0}
+{"id": 106, "sub_label": "Owariki", "obj_label": ["Solomon Islands"], "freq": 4}
+{"id": 107, "sub_label": "Norman Wells", "obj_label": ["Canada"], "freq": 28}
+{"id": 108, "sub_label": "Club Atl\u00e9tico Morelia", "obj_label": ["Mexico"], "freq": 2}
+{"id": 109, "sub_label": "Bonchuk Stadium", "obj_label": ["Bulgaria"], "freq": 2}
+{"id": 110, "sub_label": "Balgogo", "obj_label": ["Burkina Faso"], "freq": 2}
+{"id": 111, "sub_label": "B\u00fcchel", "obj_label": ["Germany"], "freq": 34}
+{"id": 112, "sub_label": "Fonte C\u00f4nego", "obj_label": ["Cape Verde"], "freq": 0}
+{"id": 113, "sub_label": "S\u00e1g Mountain", "obj_label": ["Hungary"], "freq": 1}
+{"id": 114, "sub_label": "T\u00fcrkheim", "obj_label": ["Germany"], "freq": 18}
+{"id": 115, "sub_label": "Noorani Basti", "obj_label": ["Pakistan"], "freq": 2}
+{"id": 116, "sub_label": "Ormoy-la-Rivi\u00e8re", "obj_label": ["France"], "freq": 3}
+{"id": 117, "sub_label": "Cassibile Airfield", "obj_label": ["Italy"], "freq": 2}
+{"id": 118, "sub_label": "Muel Dam", "obj_label": ["Spain"], "freq": 2}
+{"id": 119, "sub_label": "Landespolizei", "obj_label": ["Germany"], "freq": 28}
+{"id": 120, "sub_label": "Sayyid Abdulwa\u1e25d", "obj_label": ["Libya"], "freq": 1}
+{"id": 121, "sub_label": "Altja", "obj_label": ["Estonia"], "freq": 4}
+{"id": 122, "sub_label": "Sooriyawewa Divisional Secretariat", "obj_label": ["Sri Lanka"], "freq": 1}
+{"id": 123, "sub_label": "Diocese of Egypt", "obj_label": ["Byzantine Empire"], "freq": 2}
+{"id": 124, "sub_label": "Thirroul", "obj_label": ["Australia"], "freq": 35}
+{"id": 125, "sub_label": "Rapti Highway", "obj_label": ["Nepal"], "freq": 2}
+{"id": 126, "sub_label": "A14 autoroute", "obj_label": ["France"], "freq": 0}
+{"id": 127, "sub_label": "1933 Dutch general election", "obj_label": ["Netherlands"], "freq": 0}
+{"id": 128, "sub_label": "Mariefred", "obj_label": ["Sweden"], "freq": 37}
+{"id": 129, "sub_label": "Ryongchon Station", "obj_label": ["North Korea"], "freq": 0}
+{"id": 130, "sub_label": "firth", "obj_label": ["Germany"], "freq": 35}
+{"id": 131, "sub_label": "2007 European Junior Curling Challenge", "obj_label": ["Denmark"], "freq": 1}
+{"id": 132, "sub_label": "Forcall", "obj_label": ["Spain"], "freq": 9}
+{"id": 133, "sub_label": "Nobel Prize Museum", "obj_label": ["Sweden"], "freq": 4}
+{"id": 134, "sub_label": "Federal Ministry of Digital and Economic Affairs", "obj_label": ["Austria"], "freq": 1}
+{"id": 135, "sub_label": "Bharat Nagar", "obj_label": ["India"], "freq": 5}
+{"id": 136, "sub_label": "Ekomuseum Bergslagen", "obj_label": ["Sweden"], "freq": 1}
+{"id": 137, "sub_label": "Maquassi Hills Local Municipality", "obj_label": ["South Africa"], "freq": 4}
+{"id": 138, "sub_label": "Daecheongdo", "obj_label": ["South Korea"], "freq": 4}
+{"id": 139, "sub_label": "Savalskogo lesnichestva", "obj_label": ["Russia"], "freq": 3}
+{"id": 140, "sub_label": "Bangarupalem", "obj_label": ["India"], "freq": 4}
+{"id": 141, "sub_label": "Gambassi Terme", "obj_label": ["Italy"], "freq": 2}
+{"id": 142, "sub_label": "Nordermeldorf", "obj_label": ["Germany"], "freq": 1}
+{"id": 143, "sub_label": "Tatah\u00e1za", "obj_label": ["Hungary"], "freq": 1}
+{"id": 144, "sub_label": "Lago di Poggio Perotto", "obj_label": ["Italy"], "freq": 3}
+{"id": 145, "sub_label": "Gadi Bayalkada", "obj_label": ["Nepal"], "freq": 3}
+{"id": 146, "sub_label": "Kij\u0259b\u0259", "obj_label": ["Azerbaijan"], "freq": 0}
+{"id": 147, "sub_label": "Inishmeane", "obj_label": ["Ireland"], "freq": 4}
+{"id": 148, "sub_label": "Courtetain-et-Salans", "obj_label": ["France"], "freq": 1}
+{"id": 149, "sub_label": "Haidhausen", "obj_label": ["Germany"], "freq": 5}
+{"id": 150, "sub_label": "Lebanese Special Operations Command", "obj_label": ["Lebanon"], "freq": 3}
+{"id": 151, "sub_label": "Kakanui Range", "obj_label": ["New Zealand"], "freq": 4}
+{"id": 152, "sub_label": "FEDIMA", "obj_label": ["Belgium"], "freq": 0}
+{"id": 153, "sub_label": "Aglona", "obj_label": ["Latvia"], "freq": 37}
+{"id": 154, "sub_label": "Ben Arous", "obj_label": ["Tunisia"], "freq": 62}
+{"id": 155, "sub_label": "Trzebnica County", "obj_label": ["Poland"], "freq": 210}
+{"id": 156, "sub_label": "Lam Wa", "obj_label": ["Thailand"], "freq": 7}
+{"id": 157, "sub_label": "Chromepet", "obj_label": ["India"], "freq": 16}
+{"id": 158, "sub_label": "Lod Municipal Stadium", "obj_label": ["Israel"], "freq": 1}
+{"id": 159, "sub_label": "Takaida Yokoana Group", "obj_label": ["Japan"], "freq": 0}
+{"id": 160, "sub_label": "Aghalaya", "obj_label": ["India"], "freq": 2}
+{"id": 161, "sub_label": "Alulovi\u0107e", "obj_label": ["Serbia"], "freq": 2}
+{"id": 162, "sub_label": "Isola del Gran Sasso d'Italia", "obj_label": ["Italy"], "freq": 3}
+{"id": 163, "sub_label": "New Semnan Airport", "obj_label": ["Iran"], "freq": 1}
+{"id": 164, "sub_label": "Valencia FC", "obj_label": ["Haiti"], "freq": 7}
+{"id": 165, "sub_label": "Johnstone River", "obj_label": ["Australia"], "freq": 8}
+{"id": 166, "sub_label": "Ahisilla", "obj_label": ["Estonia"], "freq": 1}
+{"id": 167, "sub_label": "Green Ecologist Party", "obj_label": ["Chile"], "freq": 7}
+{"id": 168, "sub_label": "Salboni", "obj_label": ["India"], "freq": 16}
+{"id": 169, "sub_label": "Xilin MRT station", "obj_label": ["Singapore"], "freq": 3}
+{"id": 170, "sub_label": "Tanjung Kokotuk", "obj_label": ["Indonesia"], "freq": 0}
+{"id": 171, "sub_label": "Cavernoso River", "obj_label": ["Brazil"], "freq": 2}
+{"id": 172, "sub_label": "Idalium", "obj_label": ["Cyprus"], "freq": 14}
+{"id": 173, "sub_label": "Charbogne", "obj_label": ["France"], "freq": 1}
+{"id": 174, "sub_label": "Mazsalaca Parish", "obj_label": ["Latvia"], "freq": 4}
+{"id": 175, "sub_label": "Eimke", "obj_label": ["Germany"], "freq": 34}
+{"id": 176, "sub_label": "Comedy Square", "obj_label": ["France"], "freq": 0}
+{"id": 177, "sub_label": "Butk\u00eb", "obj_label": ["Albania"], "freq": 7}
+{"id": 178, "sub_label": "Banggai Laut", "obj_label": ["Indonesia"], "freq": 1}
+{"id": 179, "sub_label": "Sivurupitiya", "obj_label": ["Sri Lanka"], "freq": 2}
+{"id": 180, "sub_label": "Harenfa", "obj_label": ["Algeria"], "freq": 1}
+{"id": 181, "sub_label": "Blenheim", "obj_label": ["Canada"], "freq": 53}
+{"id": 182, "sub_label": "Kuap", "obj_label": ["Indonesia"], "freq": 4}
+{"id": 183, "sub_label": "Akabo", "obj_label": ["Nigeria"], "freq": 11}
+{"id": 184, "sub_label": "La Casera", "obj_label": ["Spain"], "freq": 3}
+{"id": 185, "sub_label": "Cham Seyyedi-ye Sofla", "obj_label": ["Iran"], "freq": 3}
+{"id": 186, "sub_label": "Guint\u00e9gu\u00e9la", "obj_label": ["C\u00f4te d'Ivoire"], "freq": 0}
+{"id": 187, "sub_label": "Nozrina", "obj_label": ["Serbia"], "freq": 2}
+{"id": 188, "sub_label": "Afro-Omanis", "obj_label": ["Oman"], "freq": 6}
+{"id": 189, "sub_label": "Dumbrava Sibiului Natural Park", "obj_label": ["Romania"], "freq": 3}
+{"id": 190, "sub_label": "Filipino", "obj_label": ["Philippines"], "freq": 11180}
+{"id": 191, "sub_label": "Iloilo City", "obj_label": ["Philippines"], "freq": 457}
+{"id": 192, "sub_label": "Ordlegan", "obj_label": ["Iran"], "freq": 2}
+{"id": 193, "sub_label": "San Pedro", "obj_label": ["Mexico"], "freq": 569}
+{"id": 194, "sub_label": "Popular Republican Union of Gironde", "obj_label": ["France"], "freq": 2}
+{"id": 195, "sub_label": "Ciudad Madero", "obj_label": ["Mexico"], "freq": 38}
+{"id": 196, "sub_label": "Moyaux", "obj_label": ["France"], "freq": 2}
+{"id": 197, "sub_label": "Drakenstein", "obj_label": ["South Africa"], "freq": 51}
+{"id": 198, "sub_label": "Pfunds", "obj_label": ["Austria"], "freq": 6}
+{"id": 199, "sub_label": "Betroka", "obj_label": ["Madagascar"], "freq": 14}
+{"id": 200, "sub_label": "Qarayevk\u0259nd", "obj_label": ["Azerbaijan"], "freq": 1}
+{"id": 201, "sub_label": "Universo/Goi\u00e2nia", "obj_label": ["Brazil"], "freq": 2}
+{"id": 202, "sub_label": "RENAM", "obj_label": ["Moldova"], "freq": 79}
+{"id": 203, "sub_label": "TSF", "obj_label": ["Portugal"], "freq": 43}
+{"id": 204, "sub_label": "Adasi", "obj_label": ["India"], "freq": 215}
+{"id": 205, "sub_label": "Juna Jashapar", "obj_label": ["India"], "freq": 1}
+{"id": 206, "sub_label": "Cheshlyantsi", "obj_label": ["Bulgaria"], "freq": 1}
+{"id": 207, "sub_label": "Santo Domingo Ingenio", "obj_label": ["Mexico"], "freq": 1}
+{"id": 208, "sub_label": "Rekowa", "obj_label": ["Poland"], "freq": 2}
+{"id": 209, "sub_label": "Mittagspitz", "obj_label": ["Liechtenstein"], "freq": 3}
+{"id": 210, "sub_label": "Biju Sena", "obj_label": ["India"], "freq": 2}
+{"id": 211, "sub_label": "Maroldsweisach", "obj_label": ["Germany"], "freq": 2}
+{"id": 212, "sub_label": "Montguyon", "obj_label": ["France"], "freq": 4}
+{"id": 213, "sub_label": "Illesheim Army Heliport", "obj_label": ["Germany"], "freq": 1}
+{"id": 214, "sub_label": "Ajanta Caves", "obj_label": ["India"], "freq": 79}
+{"id": 215, "sub_label": "Nov\u00e1 Ves I", "obj_label": ["Czech Republic"], "freq": 31}
+{"id": 216, "sub_label": "Manoir Industries", "obj_label": ["France"], "freq": 2}
+{"id": 217, "sub_label": "Liceo Elvira S\u00e1nchez de Garc\u00e9s", "obj_label": ["Chile"], "freq": 2}
+{"id": 218, "sub_label": "Amidabad", "obj_label": ["Iran"], "freq": 38}
+{"id": 219, "sub_label": "Rheinturm", "obj_label": ["Germany"], "freq": 9}
+{"id": 220, "sub_label": "College of Business Education", "obj_label": ["Tanzania"], "freq": 11}
+{"id": 221, "sub_label": "Courcy-aux-Loges", "obj_label": ["France"], "freq": 3}
+{"id": 222, "sub_label": "De\u017eno pri Podlehniku", "obj_label": ["Slovenia"], "freq": 2}
+{"id": 223, "sub_label": "Princess Alice Bank", "obj_label": ["Portugal"], "freq": 0}
+{"id": 224, "sub_label": "Angren", "obj_label": ["Uzbekistan"], "freq": 29}
+{"id": 225, "sub_label": "Passader See", "obj_label": ["Germany"], "freq": 2}
+{"id": 226, "sub_label": "Orveh-ye Olya", "obj_label": ["Iran"], "freq": 1}
+{"id": 227, "sub_label": "Tuyut\u00ed", "obj_label": ["Paraguay"], "freq": 37}
+{"id": 228, "sub_label": "Tahoera'a Huiraatira", "obj_label": ["France"], "freq": 5}
+{"id": 229, "sub_label": "Kranji Expressway", "obj_label": ["Singapore"], "freq": 17}
+{"id": 230, "sub_label": "Aradan District", "obj_label": ["Iran"], "freq": 2}
+{"id": 231, "sub_label": "House of Saud", "obj_label": ["Saudi Arabia"], "freq": 111}
+{"id": 232, "sub_label": "Caoling", "obj_label": ["Taiwan"], "freq": 11}
+{"id": 233, "sub_label": "South Bentinck", "obj_label": ["Canada"], "freq": 2}
+{"id": 234, "sub_label": "Hotal Deshan", "obj_label": ["Pakistan"], "freq": 2}
+{"id": 235, "sub_label": "Ramat HaShofet", "obj_label": ["Israel"], "freq": 9}
+{"id": 236, "sub_label": "Dominici Affair", "obj_label": ["France"], "freq": 4}
+{"id": 237, "sub_label": "Mitrofani", "obj_label": ["Romania"], "freq": 4}
+{"id": 238, "sub_label": "Larim", "obj_label": ["Iran"], "freq": 33}
+{"id": 239, "sub_label": "Radio Biafra", "obj_label": ["Nigeria"], "freq": 8}
+{"id": 240, "sub_label": "Lawrence Cove", "obj_label": ["Ireland"], "freq": 1}
+{"id": 241, "sub_label": "Sarju Sagar Dam", "obj_label": ["India"], "freq": 1}
+{"id": 242, "sub_label": "Ho\u00e7isht", "obj_label": ["Albania"], "freq": 5}
+{"id": 243, "sub_label": "Gullfoss", "obj_label": ["Iceland"], "freq": 17}
+{"id": 244, "sub_label": "Neusiedl am See", "obj_label": ["Austria"], "freq": 92}
+{"id": 245, "sub_label": "One Love Roller Dolls", "obj_label": ["Belgium"], "freq": 4}
+{"id": 246, "sub_label": "Tongan Democratic Labor Party", "obj_label": ["Tonga"], "freq": 2}
+{"id": 247, "sub_label": "Muhammadiyah University Press", "obj_label": ["Indonesia"], "freq": 1}
+{"id": 248, "sub_label": "Bibi-Heybat Mosque", "obj_label": ["Azerbaijan"], "freq": 8}
+{"id": 249, "sub_label": "Kampung Kasipillay", "obj_label": ["Malaysia"], "freq": 2}
+{"id": 250, "sub_label": "DomStufen-Festspiele", "obj_label": ["Germany"], "freq": 2}
+{"id": 251, "sub_label": "Espierre", "obj_label": ["Spain"], "freq": 8}
+{"id": 252, "sub_label": "Api", "obj_label": ["Nepal"], "freq": 1334}
+{"id": 253, "sub_label": "\u0110\u1ecba Linh", "obj_label": ["Vietnam"], "freq": 1}
+{"id": 254, "sub_label": "Palazuelos", "obj_label": ["Spain"], "freq": 15}
+{"id": 255, "sub_label": "Brse\u010d", "obj_label": ["Croatia"], "freq": 7}
+{"id": 256, "sub_label": "Santa Maria del Regno", "obj_label": ["Italy"], "freq": 2}
+{"id": 257, "sub_label": "Trnav\u00e1 Hora", "obj_label": ["Slovakia"], "freq": 3}
+{"id": 258, "sub_label": "Ekbatan", "obj_label": ["Iran"], "freq": 33}
+{"id": 259, "sub_label": "Njuga", "obj_label": ["Tanzania"], "freq": 2}
+{"id": 260, "sub_label": "2019 Supercupa Rom\u00e2niei", "obj_label": ["Romania"], "freq": 8}
+{"id": 261, "sub_label": "Macqueville", "obj_label": ["France"], "freq": 1}
+{"id": 262, "sub_label": "Atkarsky District", "obj_label": ["Russia"], "freq": 5}
+{"id": 263, "sub_label": "Montblainville", "obj_label": ["France"], "freq": 2}
+{"id": 264, "sub_label": "Castle Roche", "obj_label": ["Ireland"], "freq": 2}
+{"id": 265, "sub_label": "Al Jaradiyah", "obj_label": ["Saudi Arabia"], "freq": 1}
+{"id": 266, "sub_label": "Nobeoka", "obj_label": ["Japan"], "freq": 74}
+{"id": 267, "sub_label": "Tsushima", "obj_label": ["Japan"], "freq": 1352}
+{"id": 268, "sub_label": "Ouled Sellam", "obj_label": ["Algeria"], "freq": 2}
+{"id": 269, "sub_label": "Indonesian National Awakening", "obj_label": ["Indonesia"], "freq": 68}
+{"id": 270, "sub_label": "Fanucci Editore", "obj_label": ["Italy"], "freq": 2}
+{"id": 271, "sub_label": "Lolkisale", "obj_label": ["Tanzania"], "freq": 2}
+{"id": 272, "sub_label": "Kagbolodougou", "obj_label": ["C\u00f4te d'Ivoire"], "freq": 0}
+{"id": 273, "sub_label": "Port of Beirut", "obj_label": ["Lebanon"], "freq": 28}
+{"id": 274, "sub_label": "Inhulivka", "obj_label": ["Ukraine"], "freq": 1}
+{"id": 275, "sub_label": "Bungoma", "obj_label": ["Kenya"], "freq": 166}
+{"id": 276, "sub_label": "Brusyliv", "obj_label": ["Ukraine"], "freq": 5}
+{"id": 277, "sub_label": "Borgholm Castle", "obj_label": ["Sweden"], "freq": 8}
+{"id": 278, "sub_label": "British Borneo", "obj_label": ["United Kingdom"], "freq": 12}
+{"id": 279, "sub_label": "Qazanchi", "obj_label": ["Iran"], "freq": 3}
+{"id": 280, "sub_label": "Ernest Cognacq Museum", "obj_label": ["France"], "freq": 2}
+{"id": 281, "sub_label": "Dawadmi", "obj_label": ["Saudi Arabia"], "freq": 10}
+{"id": 282, "sub_label": "Washabo airstrip", "obj_label": ["Suriname"], "freq": 1}
+{"id": 283, "sub_label": "Ward No. 126, Kolkata Municipal Corporation", "obj_label": ["India"], "freq": 0}
+{"id": 284, "sub_label": "Udapudi", "obj_label": ["India"], "freq": 1}
+{"id": 285, "sub_label": "Les Mureaux", "obj_label": ["France"], "freq": 49}
+{"id": 286, "sub_label": "Kretinga", "obj_label": ["Lithuania"], "freq": 110}
+{"id": 287, "sub_label": "Bergwitz", "obj_label": ["Germany"], "freq": 1}
+{"id": 288, "sub_label": "Concepci\u00f3n", "obj_label": ["Paraguay"], "freq": 231}
+{"id": 289, "sub_label": "Zladovce", "obj_label": ["Serbia"], "freq": 3}
+{"id": 290, "sub_label": "Nasarkan-e Sofla", "obj_label": ["Iran"], "freq": 2}
+{"id": 291, "sub_label": "Kian-e Nesar", "obj_label": ["Iran"], "freq": 3}
+{"id": 292, "sub_label": "Metronome Spartacus", "obj_label": ["Norway"], "freq": 3}
+{"id": 293, "sub_label": "Op\u00e9ra d'Avignon", "obj_label": ["France"], "freq": 4}
+{"id": 294, "sub_label": "Shalikha Upazila", "obj_label": ["Bangladesh"], "freq": 7}
+{"id": 295, "sub_label": "Drugs (Prevention of Misuse) Act 1964", "obj_label": ["United Kingdom"], "freq": 2}
+{"id": 296, "sub_label": "H\u00f6chheim", "obj_label": ["Germany"], "freq": 17}
+{"id": 297, "sub_label": "Sepang", "obj_label": ["Malaysia"], "freq": 322}
+{"id": 298, "sub_label": "Shim\u014dsa Province", "obj_label": ["Japan"], "freq": 43}
+{"id": 299, "sub_label": "Lake Vaikne", "obj_label": ["Estonia"], "freq": 0}
+{"id": 300, "sub_label": "Northern Territory Cricket", "obj_label": ["Australia"], "freq": 6}
