@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 python3 load_and_clean_training_data.py
 ```
-> Der Trainingsdatensatz, der bereits in 22 kleinere Teile aufgeteilt ist, steht unter folgendem Pfad zur Verfügung: ``` ./datasets/training_data.zip ```
+> Der Trainingsdatensatz steht unter https://huggingface.co/datasets/wikimedia/wikipedia zur Verfügung.
 
 
 - Berechnung von Häufigkeiten der Fakten mit Hilfe von distant supervision assumption (DSA) (beachten Sie die Hinweise in den Kommentaren im Code). 
