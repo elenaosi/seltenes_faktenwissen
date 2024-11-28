@@ -1,0 +1,20 @@
+{"relation": "P17", "template": "[Y] is located in the country [X].", "label": "country"}
+{"relation": "P19", "template": "[Y] was born in [X].", "label": "place of birth"}
+{"relation": "P37", "template": "The official language of [Y] is [X].", "label": "official language"}
+{"relation": "P50", "template": "The author of [Y] is [X].", "label": "author"}
+{"relation": "P84", "template": "The architect of [Y] is [X].", "label": "architect"}
+{"relation": "P127", "template": "[Y] is owned by [X].", "label": "owned by"}
+{"relation": "P136", "template": "Genre of [Y] is [X].", "label": "genre"}
+{"relation": "P170", "template": "The creator of [Y] is [X].", "label": "creator"}
+{"relation": "P176", "template": "The manufacturer of [Y] is [X].", "label": "manufacturer"}
+{"relation": "P276", "template": "[Y] is located in [X].", "label": "location"}
+{"relation": "P277", "template": "[Y] programming language is [X].", "label": "programming language"}
+{"relation": "P361", "template": "[Y] is part of [X].", "label": "part of"}
+{"relation": "P463", "template": "[Y] is a member of [X].", "label": "member of"}
+{"relation": "P569", "template": "[Y] was born in the year [X].", "label": "date of birth"}
+{"relation": "P577", "template": "[Y] was published in the year [X].", "label": "publication date"}
+{"relation": "P641", "template": "The type of sport [Y] played is [X].", "label": "sport"}
+{"relation": "P915", "template": "The filming location of [Y] is [X].", "label": "filming location"}
+{"relation": "P1113", "template": "The number of episodes of [Y] is [X].", "label": "number of episodes"}
+{"relation": "P1376", "template": "[Y] is the capital of [X].", "label": "capital of"}
+{"relation": "P1427", "template": "The starting point of [Y] is [X].", "label": "start point"}
