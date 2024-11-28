@@ -1,6 +1,6 @@
 # Bachelorarbeit: Evaluation von großen Sprachmodellen in Bezug auf seltenes Faktenwissen
 
-## Zusammenfassung
+## Allgemeine Informationen
 Dieses Verzeichnis enthält Python-Skripte zum Sammeln von Daten, die für das Experiment benötigt werden, und zum Evalueren von seltenem Faktenwissen von großen Sprachmodellen anhand der gesammelten Daten.
 
 Unsere Methodik umfasst eine Korrelations- und Leistungsanalyse. Um zwischen seltenen und häufigen Fakten zu unterscheiden, schätzen wir die Häufigkeiten von Fakten, die wir als Tripel (Subjekt, Relation, Objekt) verstehen, in Trainingsdaten von ausgewählten großen Sprachmodellen. Diese Fakten dienen uns auch als Vorlage für die Formulierung von Prompts, um die Antworten von großen Sprachmodellen in Form einer Rangliste zu erhalten. Mit Hilfe verschiedener Metriken führen wir eine Korrelationsanalyse durch, um lineare und monotone Zusammenhänge zwischen den Daten zu untersuchen, sowie eine Leistungsanalyse. 
