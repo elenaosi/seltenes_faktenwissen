@@ -92,9 +92,3 @@ python3 metriks.py <model_name>
 > für Mistral 0.3 ``` ./metrics_result/metrics_mistral.jsonl ```
 > 
 > für alle Modelle über alle relationalen Beziehungen zusammen ``` ./metrics_result/metrics_all.jsonl ```
-
-- Visualisierung der Ergebnisse
-```
-python3 visual.py
-```
-
