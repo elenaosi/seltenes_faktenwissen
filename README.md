@@ -1,12 +1,16 @@
 # Evaluating Rare Factual Knowledge in Large Language Models
 
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-blue)
-![Semantic Chunking](https://img.shields.io/badge/Semantic%20Chunking-blue)
-![NLP](https://img.shields.io/badge/NLP-Pipelines-orange)
-![LLMs](https://img.shields.io/badge/LLMs-GPT%20%7C%20Llama%20%7C%20Mistral-green)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-purple)
+<p align="center">
+  <img src="https://img.shields.io/badge/Semantic%20Search-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic%20Chunking-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP%20Pipelines-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-GPT%20%7C%20Llama%20%7C%20Mistral-22c55e?style=for-the-badge" />
+</p>
 
-## About this projekt
+
+
+## About the projekt
 This repository contains a modular Python pipeline for the systematic collection, processing, and evaluation of rare factual knowledge in Large Language Models (LLMs). The project was developed as part of a bachelor’s thesis and combines data-driven analysis, semantic methods, and structured prompting strategies to rigorously assess the capabilities of modern language models.
 
 The central focus of the project is to investigate how reliably large language models reproduce rare facts, particularly in comparison to frequently occurring facts, and whether a measurable relationship exists between the frequency of a fact in training data and model performance.
