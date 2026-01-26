@@ -1,98 +1,129 @@
-# Evaluation von großen Sprachmodellen in Bezug auf seltenes Faktenwissen (Bachelorarbeit)
+# Evaluating Rare Factual Knowledge in Large Language Models
 
-## Allgemeine Informationen
-Dieses Verzeichnis enthält Python-Skripte zum Sammeln von Daten, die für das Experiment benötigt werden, und zum Evaluieren von seltenem Faktenwissen von großen Sprachmodellen anhand der gesammelten Daten. <br>
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-blue)
+![Semantic Chunking](https://img.shields.io/badge/Semantic%20Chunking-blue)
+![NLP](https://img.shields.io/badge/NLP-Pipelines-orange)
+![LLMs](https://img.shields.io/badge/LLMs-GPT%20%7C%20Llama%20%7C%20Mistral-green)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-purple)
 
-Große Sprachmodelle haben in den letzten Jahren deutlich an Bedeutung gewonnen. Sie können natürliche Sprache immer besser verarbeiten und werden in einer Vielzahl von Anwendungsbereichen eingesetzt - von Kundendienstabfragen bis zum Einsatz in spezialisierten Bereichen wie Medizin, Recht und Wissenschaft, wo es besonders auf die Korrektheit und Präzision des wiedergegebenen Wissens ankommt. In dieser Bachelorarbeit haben wir untersucht, wie gut große Sprachmodelle wie GPT-4o, Llama 3.1 und Mistral 0.3 seltenes Faktenwissen wiedergeben können und ob es eine Korrelation zwischen der Häufigkeit eines Faktes im Trainingsdatensatz und der Fähigkeit des Modells, diesen korrekt wiederzugeben, gibt. <br>
+## About this projekt
+This repository contains a modular Python pipeline for the systematic collection, processing, and evaluation of rare factual knowledge in Large Language Models (LLMs). The project was developed as part of a bachelor’s thesis and combines data-driven analysis, semantic methods, and structured prompting strategies to rigorously assess the capabilities of modern language models.
 
-Unsere Methodik umfasst eine Korrelations- und Leistungsanalyse. Um zwischen seltenen und häufigen Fakten zu unterscheiden, schätzen wir die Häufigkeiten von Fakten, die wir als Tripel (Subjekt, Relation, Objekt) verstehen, in Trainingsdaten von ausgewählten großen Sprachmodellen. Diese Fakten dienen uns auch als Vorlage für die Formulierung von Prompts, um die Antworten von großen Sprachmodellen in Form einer Rangliste zu erhalten. Mit Hilfe verschiedener Metriken führen wir eine Korrelationsanalyse durch, um lineare und monotone Zusammenhänge zwischen den Daten zu untersuchen, sowie eine Leistungsanalyse. <br>
+The central focus of the project is to investigate how reliably large language models reproduce rare facts, particularly in comparison to frequently occurring facts, and whether a measurable relationship exists between the frequency of a fact in training data and model performance.
+By analyzing factual knowledge in the form of structured (subject, relation, object) triples and evaluating multiple state-of-the-art LLMs, the project aims to provide deeper insight into the limitations, robustness, and behavior of language models in the long tail of knowledge.
 
-Bei der Evaluation des seltenen Faktenwissens haben wir festgestellt, dass es schwierig ist, eine eindeutige Aussage darüber zu treffen, ob große Sprachmodelle weniger Wissen über seltene Fakten haben als u über häufigere Fakten. Unsere Leistungsanalyse hat gezeigt, dass GPT-4o eine bessere und stabilere Leistung als Lama 3.1 und Mistral 0.3 aufweist und dass die Leistung aller drei großen Sprachmodelle von der Art und Häufigkeit der abgefragten Informationen abhängt.
+## Methodological Approach
 
+1. Data Acquisition & Processing
+- Automated collection and preprocessing of large-scale text corpora
+- Normalization, filtering, and structuring of unstructured data
+- Extraction of factual knowledge represented as (subject, relation, object) triples
 
-## Anforderungen
+2. Semantic Chunking & Semantic Search
+- Decomposition of large text corpora into semantically coherent chunks
+- Embedding-based similarity search for:
+- Identification of relevant textual evidence
+- Estimation of factual occurrence frequencies
+- Robust differentiation between rare and frequent facts
+
+3. Data Labeling & Fact Frequency Estimation
+- Automated labeling of facts based on estimated occurrence frequencies
+- Construction of an annotated evaluation dataset
+- Quantitative classification of facts according to their degree of rarity
+
+4. Prompt Engineering & Model Querying
+- Design of structured prompting strategies
+- Generation of controlled model queries to reduce prompt-induced bias
+- Collection of model outputs as ranked lists rather than binary answers
+
+5. Evaluation & Analysis
+- Performance assessment using multiple evaluation metrics
+- Correlation analysis (linear and monotonic) between fact frequency and model performance
+- Comparative evaluation of multiple LLMs: GPT-4o, Llama 3.1, Mistral 0.3
+
+## Requirements
 - Python 3.9
 - pip 24.2
-- Ollama Software herunterladen (steht unter https://ollama.com zur Verfügung)
+- Ollama Software (is available at https://ollama.com)
 ```
 pip install -r requirements.txt
 ```
 
-## Um das Experiment zu wiederholen, müssen folgende Schritte durchgeführt werden:
+## To repeat the experiment, the following steps must be performed:
 
 
-- Trainingsdatensatz herunterladen, bereinigen und in kleinere Teile zerlegen.
+- Download the training data set, clean it up, and break it down into smaller parts.
 ```
 python3 load_and_clean_training_data.py
 ```
-> Der Trainingsdatensatz steht unter https://huggingface.co/datasets/wikimedia/wikipedia zur Verfügung.
+> The training data set is available at [https://huggingface.co/datasets/wikimedia/wikipedia](https://huggingface.co/datasets/wikimedia/wikipedia).
 
 
-- Berechnung von Häufigkeiten der Fakten mit Hilfe von distant supervision assumption (DSA) (beachten Sie die Hinweise in den Kommentaren im Code). 
+- Calculation of frequencies of facts using distant supervision assumption (DSA) (note the comments in the code). 
 ```
 python3 calculate_freq.py
 ```
-> Der Faktendatensatz ist unter folgendem Pfad verfügbar: ``` ./datasets/fakt_data_raw ```
+> The fact data set is available at the following path: ``` ./datasets/fakt_data_raw ```
 > 
-> Die bereits berechnete Häufigkeiten für jede relationale Beziehung sind unter folgendem Pfad verfügbar: ``` ./datasets/fakt_data_freq ```
+> The frequencies already calculated for each relational relationship are available at the following path: ``` ./datasets/fakt_data_freq ```
 
 
-- Prompting von Llama 3.1 und Mistral 0.3 mit Ollama (beachten Sie die Hinweise in den Kommentaren im Code).
+- Prompting Llama 3.1 and Mistral 0.3 with Ollama (see the notes in the comments in the code).
 ```
-Ollama Software lokal einschalten
+Turn on Ollama software locally
 ```
 ```
 python3 prompt_response_generator.py
 ```
-> Manuell erstellte Fragen-Templates sind unter folgendem Pfad verfügbar: ``` ./prompts/close_fragen_template.jsonl ```
+> Manually created question templates are available at the following path: ``` ./prompts/close_fragen_template.jsonl ```
 > 
-> Fertige Prompts für Llama 3.1 und Mistral 0.3 sind unter folgendem Pfad verfügbar: ``` ./prompts/prompts_for_llama_and_mistral ```
+> Completed prompts for Llama 3.1 and Mistral 0.3 are available at the following path: ``` ./prompts/prompts_for_llama_and_mistral ```
  
-> Erhaltene Antworten von Llama 3.1 auf Prompts sind unter folgendem Pfad verfügbar: ``` ./prompting_result/llama_result ```
+> Responses received from Llama 3.1 to prompts are available at the following path: ``` ./prompting_result/llama_result ```
 > 
-> Erhaltene Antworten von Mistral 0.3 auf Prompts sind unter folgendem Pfad verfügbar: ``` ./prompting_result/mistral_result ```
+> Responses received from Mistral 0.3 to prompts are available at the following path: ``` ./prompting_result/mistral_result ```
 
 
-- Prompting von GPT-4o per Batch-API.
+- Prompting GPT-4o via batch API.
 ```
 export OPENAI_API_KEY="dein_API_KEY“
 ```
 ```
 python3 gpt_prompt_per_batch.py --file_path "_"
 ```
-> ``` --file_path ```: Pfad zur JSON-Datei mit den fertigen Batches, die an API gesendet wird. Zum Beispiel ``` "./prompts/prompts_for_gtp_per_batches/P17_gpt_batches.jsonl" ```
+> ``` --file_path ```: Path to the JSON file containing the finished batches that will be sent to the API. For example ``` "./prompts/prompts_for_gtp_per_batches/P17_gpt_batches.jsonl" ```
 
-> Fertige Prompts für GPT-4o sind unter folgendem Pfad verfügbar: ``` ./prompts/prompts_for_gtp_per_batches ```
+> Completed prompts for GPT-4o are available at the following path: ``` ./prompts/prompts_for_gtp_per_batches ```
 ```
 python3 gpt_prompt_per_batch.py --batch_id "_"
 ```
-> ``` --batch_id ```: ID des Batches, um Status zu überprüfen. Zum Beispiel ``` "batch_66f3c6325f0c8190aa207ae42d8fe870" ```
+> ``` --batch_id ```: ID of the batch to check the status. For example ``` "batch_66f3c6325f0c8190aa207ae42d8fe870" ```
 ```
 python3 gpt_prompt_per_batch.py --file_id "_"  --output_path "_"
 ```
-> ``` --file_id ```: ID der Datei, um Ergebnisse herunterzuladen. Zum Beispiel ``` "file-teJF9ChSNXgUv86W5xgyXjky" ```
+> ``` --file_id ```: File ID to download results. For example ``` "file-teJF9ChSNXgUv86W5xgyXjky" ```
 > 
-> ``` --output_path ```: Pfad, wo die heruntergeladene Datei gespeichert werden soll. Zum Beispiel ``` "./prompting_result/gpt_result" ```
+> ``` --output_path ```: Path where the downloaded file should be saved. For example ``` "./prompting_result/gpt_result" ```
 
-> Erhaltene Antworten auf Prompts sind unter folgendem Pfad verfügbar: ``` ./prompting_result/gpt_result ```
+> Responses received to prompts are available at the following path: ``` ./prompting_result/gpt_result ```
 
 
-- Evaluation der erhaltenen Daten durch Berechnung verschiedener Metriken.
+- Evaluation of the data obtained by calculating various metrics.
 ```
 python3 metriks.py <model_name>
 ```
- >Mögliche Varianten des Modellnamens:
+ > Possible variants of the model name:
   >
-  >gpt / llama / mistral (um Ergebnisse für alle relationalen Beziehungen einzeln zu erhalten) 
+  >gpt / llama / mistral (to obtain results for all relational relationships individually) 
   >
-  >all_gpt / all_llama / all_mistral (um Ergebnisse für alle relationalen Beziehungen zusammen zu erhalten)
+  >all_gpt / all_llama / all_mistral (to obtain results for all relational relationships together)
 
-> Bereits berechnete Ergebnisse sind über die folgenden Pfade verfügbar:
+> Results that have already been calculated are available via the following paths:
 > 
-> für GPT-4o ``` ./metrics_result/metrics_gpt.jsonl ```
+> for GPT-4o ``` ./metrics_result/metrics_gpt.jsonl ```
 > 
-> für Llama 3.1 ``` ./metrics_result/metrics_llama.jsonl ```
+> for Llama 3.1 ``` ./metrics_result/metrics_llama.jsonl ```
 > 
-> für Mistral 0.3 ``` ./metrics_result/metrics_mistral.jsonl ```
+> for Mistral 0.3 ``` ./metrics_result/metrics_mistral.jsonl ```
 > 
-> für alle Modelle über alle relationalen Beziehungen zusammen ``` ./metrics_result/metrics_all.jsonl ```
+> for all models across all relational relationships ``` ./metrics_result/metrics_all.jsonl ```
