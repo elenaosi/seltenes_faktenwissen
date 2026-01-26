@@ -1,4 +1,4 @@
-# Evaluating Rare Factual Knowledge in Large Language Models
+# Evaluating rare factual knowledge in large language models
 
 <p align="center">
   <img src="https://img.shields.io/badge/Semantic%20Search-1f6feb?style=for-the-badge" />
